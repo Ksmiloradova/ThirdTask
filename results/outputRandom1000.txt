@@ -1,0 +1,1002 @@
+Container is store 1000 transports:
+1) Airplane: ideal travel time = 271.943h, distance = 19036km, speed = 70km/h, flight range = 33532km, load capacity = 114953kg
+2) Airplane: ideal travel time = 270.903h, distance = 19505km, speed = 72km/h, flight range = 33232km, load capacity = 59336kg
+3) Airplane: ideal travel time = 261.882h, distance = 19903km, speed = 76km/h, flight range = 1945km, load capacity = 142161kg
+4) Train: ideal travel time = 259.527h, distance = 19205km, speed = 74km/h, number of wagons = 33
+5) Airplane: ideal travel time = 256.6h, distance = 17962km, speed = 70km/h, flight range = 33848km, load capacity = 115374kg
+6) Ship: ideal travel time = 255.731h, distance = 19947km, speed = 78km/h, displacement = 210321808kg, type = Type.TUG 
+7) Ship: ideal travel time = 254.703h, distance = 18848km, speed = 74km/h, displacement = 549034623kg, type = Type.LINER 
+8) Airplane: ideal travel time = 253.152h, distance = 19999km, speed = 79km/h, flight range = 31338km, load capacity = 71036kg
+9) Airplane: ideal travel time = 245.288h, distance = 17906km, speed = 73km/h, flight range = 39507km, load capacity = 27178kg
+10) Train: ideal travel time = 244.808h, distance = 19095km, speed = 78km/h, number of wagons = 47
+11) Train: ideal travel time = 242.614h, distance = 16983km, speed = 70km/h, number of wagons = 24
+12) Ship: ideal travel time = 240.952h, distance = 19999km, speed = 83km/h, displacement = 147808578kg, type = Type.LINER 
+13) Airplane: ideal travel time = 235.329h, distance = 17179km, speed = 73km/h, flight range = 31423km, load capacity = 7349kg
+14) Train: ideal travel time = 233.227h, distance = 17492km, speed = 75km/h, number of wagons = 23
+15) Ship: ideal travel time = 221.716h, distance = 16407km, speed = 74km/h, displacement = 21208894kg, type = Type.LINER 
+16) Airplane: ideal travel time = 221.273h, distance = 19472km, speed = 88km/h, flight range = 12458km, load capacity = 43600kg
+17) Airplane: ideal travel time = 221.141h, distance = 15701km, speed = 71km/h, flight range = 12087km, load capacity = 18225kg
+18) Airplane: ideal travel time = 220.553h, distance = 16762km, speed = 76km/h, flight range = 30584km, load capacity = 126572kg
+19) Ship: ideal travel time = 219.468h, distance = 17338km, speed = 79km/h, displacement = 526199042kg, type = Type.TUG 
+20) Airplane: ideal travel time = 215.814h, distance = 15107km, speed = 70km/h, flight range = 36157km, load capacity = 67341kg
+21) Ship: ideal travel time = 215.582h, distance = 17031km, speed = 79km/h, displacement = 326434696kg, type = Type.LINER 
+22) Airplane: ideal travel time = 214.424h, distance = 18226km, speed = 85km/h, flight range = 39743km, load capacity = 120728kg
+23) Ship: ideal travel time = 214.089h, distance = 16913km, speed = 79km/h, displacement = 299557018kg, type = Type.TUG 
+24) Train: ideal travel time = 209.789h, distance = 18881km, speed = 90km/h, number of wagons = 41
+25) Ship: ideal travel time = 208.333h, distance = 15625km, speed = 75km/h, displacement = 533907386kg, type = Type.TANKER 
+26) Ship: ideal travel time = 208.045h, distance = 18308km, speed = 88km/h, displacement = 286283816kg, type = Type.TANKER 
+27) Train: ideal travel time = 208.037h, distance = 17059km, speed = 82km/h, number of wagons = 62
+28) Train: ideal travel time = 207.58h, distance = 18267km, speed = 88km/h, number of wagons = 65
+29) Airplane: ideal travel time = 205.347h, distance = 14785km, speed = 72km/h, flight range = 39359km, load capacity = 139705kg
+30) Airplane: ideal travel time = 204.366h, distance = 19006km, speed = 93km/h, flight range = 18377km, load capacity = 65404kg
+31) Airplane: ideal travel time = 204.292h, distance = 14709km, speed = 72km/h, flight range = 36330km, load capacity = 93248kg
+32) Train: ideal travel time = 204.041h, distance = 19996km, speed = 98km/h, number of wagons = 64
+33) Ship: ideal travel time = 203.436h, distance = 15868km, speed = 78km/h, displacement = 549681266kg, type = Type.LINER 
+34) Ship: ideal travel time = 202.494h, distance = 16807km, speed = 83km/h, displacement = 77357052kg, type = Type.TUG 
+35) Ship: ideal travel time = 201.534h, distance = 14712km, speed = 73km/h, displacement = 462309882kg, type = Type.LINER 
+36) Ship: ideal travel time = 201.457h, distance = 16318km, speed = 81km/h, displacement = 113569019kg, type = Type.TANKER 
+37) Train: ideal travel time = 201.307h, distance = 15098km, speed = 75km/h, number of wagons = 2
+38) Train: ideal travel time = 201.0h, distance = 19698km, speed = 98km/h, number of wagons = 4
+39) Ship: ideal travel time = 199.73h, distance = 17776km, speed = 89km/h, displacement = 90073652kg, type = Type.LINER 
+40) Airplane: ideal travel time = 196.306h, distance = 14134km, speed = 72km/h, flight range = 12308km, load capacity = 57324kg
+41) Train: ideal travel time = 195.2h, distance = 13664km, speed = 70km/h, number of wagons = 13
+42) Airplane: ideal travel time = 194.888h, distance = 19099km, speed = 98km/h, flight range = 18562km, load capacity = 140721kg
+43) Airplane: ideal travel time = 194.707h, distance = 19276km, speed = 99km/h, flight range = 37236km, load capacity = 71745kg
+44) Train: ideal travel time = 191.43h, distance = 19143km, speed = 100km/h, number of wagons = 47
+45) Train: ideal travel time = 190.222h, distance = 18832km, speed = 99km/h, number of wagons = 48
+46) Train: ideal travel time = 188.935h, distance = 14548km, speed = 77km/h, number of wagons = 48
+47) Airplane: ideal travel time = 188.589h, distance = 16973km, speed = 90km/h, flight range = 14416km, load capacity = 37504kg
+48) Train: ideal travel time = 188.269h, distance = 14685km, speed = 78km/h, number of wagons = 13
+49) Airplane: ideal travel time = 186.87h, distance = 17192km, speed = 92km/h, flight range = 36788km, load capacity = 95052kg
+50) Airplane: ideal travel time = 185.2h, distance = 12964km, speed = 70km/h, flight range = 35203km, load capacity = 43036kg
+51) Airplane: ideal travel time = 185.147h, distance = 17589km, speed = 95km/h, flight range = 28210km, load capacity = 46062kg
+52) Airplane: ideal travel time = 184.575h, distance = 19565km, speed = 106km/h, flight range = 20788km, load capacity = 97781kg
+53) Ship: ideal travel time = 183.67h, distance = 17816km, speed = 97km/h, displacement = 416951717kg, type = Type.LINER 
+54) Airplane: ideal travel time = 183.414h, distance = 12839km, speed = 70km/h, flight range = 28999km, load capacity = 72998kg
+55) Ship: ideal travel time = 181.99h, distance = 18017km, speed = 99km/h, displacement = 310699707kg, type = Type.TUG 
+56) Airplane: ideal travel time = 181.76h, distance = 13632km, speed = 75km/h, flight range = 34745km, load capacity = 50768kg
+57) Train: ideal travel time = 180.489h, distance = 15883km, speed = 88km/h, number of wagons = 49
+58) Train: ideal travel time = 180.263h, distance = 13700km, speed = 76km/h, number of wagons = 12
+59) Airplane: ideal travel time = 179.914h, distance = 18891km, speed = 105km/h, flight range = 14988km, load capacity = 54109kg
+60) Ship: ideal travel time = 179.635h, distance = 13293km, speed = 74km/h, displacement = 171608571kg, type = Type.TUG 
+61) Train: ideal travel time = 178.856h, distance = 18601km, speed = 104km/h, number of wagons = 46
+62) Airplane: ideal travel time = 178.62h, distance = 12682km, speed = 71km/h, flight range = 5715km, load capacity = 59396kg
+63) Ship: ideal travel time = 178.407h, distance = 16235km, speed = 91km/h, displacement = 23596774kg, type = Type.LINER 
+64) Ship: ideal travel time = 177.955h, distance = 19575km, speed = 110km/h, displacement = 24551288kg, type = Type.TUG 
+65) Ship: ideal travel time = 176.128h, distance = 16556km, speed = 94km/h, displacement = 131574191kg, type = Type.TANKER 
+66) Airplane: ideal travel time = 175.578h, distance = 14573km, speed = 83km/h, flight range = 31436km, load capacity = 131593kg
+67) Airplane: ideal travel time = 175.103h, distance = 13658km, speed = 78km/h, flight range = 5259km, load capacity = 145772kg
+68) Ship: ideal travel time = 174.699h, distance = 17994km, speed = 103km/h, displacement = 459144816kg, type = Type.TANKER 
+69) Airplane: ideal travel time = 173.592h, distance = 12325km, speed = 71km/h, flight range = 3112km, load capacity = 131551kg
+70) Airplane: ideal travel time = 172.671h, distance = 13641km, speed = 79km/h, flight range = 38829km, load capacity = 128804kg
+71) Airplane: ideal travel time = 171.443h, distance = 16630km, speed = 97km/h, flight range = 38264km, load capacity = 42184kg
+72) Airplane: ideal travel time = 171.142h, distance = 19339km, speed = 113km/h, flight range = 5076km, load capacity = 89033kg
+73) Train: ideal travel time = 170.738h, distance = 13659km, speed = 80km/h, number of wagons = 74
+74) Train: ideal travel time = 170.247h, distance = 12428km, speed = 73km/h, number of wagons = 60
+75) Ship: ideal travel time = 170.009h, distance = 18531km, speed = 109km/h, displacement = 502097584kg, type = Type.TANKER 
+76) Train: ideal travel time = 169.81h, distance = 13415km, speed = 79km/h, number of wagons = 69
+77) Ship: ideal travel time = 169.462h, distance = 19827km, speed = 117km/h, displacement = 304106630kg, type = Type.TANKER 
+78) Ship: ideal travel time = 169.198h, distance = 13705km, speed = 81km/h, displacement = 102852321kg, type = Type.TUG 
+79) Train: ideal travel time = 168.481h, distance = 17522km, speed = 104km/h, number of wagons = 32
+80) Ship: ideal travel time = 168.068h, distance = 12437km, speed = 74km/h, displacement = 190284944kg, type = Type.TANKER 
+81) Train: ideal travel time = 167.82h, distance = 14936km, speed = 89km/h, number of wagons = 18
+82) Ship: ideal travel time = 167.808h, distance = 12250km, speed = 73km/h, displacement = 194717421kg, type = Type.TUG 
+83) Train: ideal travel time = 167.709h, distance = 19622km, speed = 117km/h, number of wagons = 6
+84) Ship: ideal travel time = 167.522h, distance = 19265km, speed = 115km/h, displacement = 57097192kg, type = Type.TANKER 
+85) Ship: ideal travel time = 167.145h, distance = 18386km, speed = 110km/h, displacement = 116985933kg, type = Type.LINER 
+86) Ship: ideal travel time = 165.63h, distance = 19710km, speed = 119km/h, displacement = 137393661kg, type = Type.TUG 
+87) Airplane: ideal travel time = 164.506h, distance = 13654km, speed = 83km/h, flight range = 17068km, load capacity = 12857kg
+88) Ship: ideal travel time = 163.626h, distance = 14890km, speed = 91km/h, displacement = 273521228kg, type = Type.TANKER 
+89) Airplane: ideal travel time = 163.031h, distance = 15651km, speed = 96km/h, flight range = 20341km, load capacity = 8666kg
+90) Airplane: ideal travel time = 162.303h, distance = 19801km, speed = 122km/h, flight range = 34953km, load capacity = 53179kg
+91) Train: ideal travel time = 162.132h, distance = 17186km, speed = 106km/h, number of wagons = 7
+92) Airplane: ideal travel time = 161.898h, distance = 15866km, speed = 98km/h, flight range = 14560km, load capacity = 69276kg
+93) Train: ideal travel time = 161.654h, distance = 17297km, speed = 107km/h, number of wagons = 74
+94) Airplane: ideal travel time = 159.824h, distance = 11827km, speed = 74km/h, flight range = 12631km, load capacity = 38484kg
+95) Airplane: ideal travel time = 158.921h, distance = 14144km, speed = 89km/h, flight range = 33167km, load capacity = 146183kg
+96) Airplane: ideal travel time = 158.437h, distance = 13784km, speed = 87km/h, flight range = 18684km, load capacity = 108704kg
+97) Airplane: ideal travel time = 158.373h, distance = 19955km, speed = 126km/h, flight range = 3167km, load capacity = 86351kg
+98) Train: ideal travel time = 157.504h, distance = 18428km, speed = 117km/h, number of wagons = 75
+99) Train: ideal travel time = 157.357h, distance = 18096km, speed = 115km/h, number of wagons = 23
+100) Ship: ideal travel time = 157.106h, distance = 19324km, speed = 123km/h, displacement = 194656617kg, type = Type.LINER 
+101) Airplane: ideal travel time = 156.889h, distance = 11296km, speed = 72km/h, flight range = 1600km, load capacity = 134529kg
+102) Train: ideal travel time = 156.784h, distance = 15992km, speed = 102km/h, number of wagons = 32
+103) Ship: ideal travel time = 156.451h, distance = 19087km, speed = 122km/h, displacement = 284503257kg, type = Type.LINER 
+104) Train: ideal travel time = 153.986h, distance = 10933km, speed = 71km/h, number of wagons = 35
+105) Train: ideal travel time = 153.419h, distance = 19791km, speed = 129km/h, number of wagons = 3
+106) Ship: ideal travel time = 152.669h, distance = 18931km, speed = 124km/h, displacement = 456867592kg, type = Type.LINER 
+107) Airplane: ideal travel time = 152.649h, distance = 14807km, speed = 97km/h, flight range = 30806km, load capacity = 129530kg
+108) Ship: ideal travel time = 152.511h, distance = 14031km, speed = 92km/h, displacement = 499096517kg, type = Type.TUG 
+109) Train: ideal travel time = 151.608h, distance = 14706km, speed = 97km/h, number of wagons = 19
+110) Airplane: ideal travel time = 151.542h, distance = 16215km, speed = 107km/h, flight range = 16715km, load capacity = 80861kg
+111) Train: ideal travel time = 151.279h, distance = 18456km, speed = 122km/h, number of wagons = 54
+112) Ship: ideal travel time = 151.265h, distance = 15429km, speed = 102km/h, displacement = 384856328kg, type = Type.LINER 
+113) Ship: ideal travel time = 150.514h, distance = 16707km, speed = 111km/h, displacement = 363694777kg, type = Type.TANKER 
+114) Airplane: ideal travel time = 150.252h, distance = 16077km, speed = 107km/h, flight range = 1386km, load capacity = 15067kg
+115) Ship: ideal travel time = 148.268h, distance = 18237km, speed = 123km/h, displacement = 462122168kg, type = Type.LINER 
+116) Train: ideal travel time = 148.264h, distance = 16309km, speed = 110km/h, number of wagons = 70
+117) Airplane: ideal travel time = 148.218h, distance = 18379km, speed = 124km/h, flight range = 26001km, load capacity = 14819kg
+118) Train: ideal travel time = 148.188h, distance = 19709km, speed = 133km/h, number of wagons = 59
+119) Ship: ideal travel time = 148.178h, distance = 17485km, speed = 118km/h, displacement = 18793891kg, type = Type.TUG 
+120) Airplane: ideal travel time = 147.853h, distance = 17151km, speed = 116km/h, flight range = 39118km, load capacity = 2217kg
+121) Airplane: ideal travel time = 147.769h, distance = 13447km, speed = 91km/h, flight range = 18556km, load capacity = 6441kg
+122) Ship: ideal travel time = 147.368h, distance = 18421km, speed = 125km/h, displacement = 271138056kg, type = Type.TANKER 
+123) Airplane: ideal travel time = 147.246h, distance = 16786km, speed = 114km/h, flight range = 35570km, load capacity = 93952kg
+124) Train: ideal travel time = 146.579h, distance = 17736km, speed = 121km/h, number of wagons = 0
+125) Airplane: ideal travel time = 146.55h, distance = 15974km, speed = 109km/h, flight range = 13392km, load capacity = 60268kg
+126) Airplane: ideal travel time = 145.398h, distance = 15703km, speed = 108km/h, flight range = 13410km, load capacity = 43217kg
+127) Ship: ideal travel time = 143.496h, distance = 17937km, speed = 125km/h, displacement = 97459092kg, type = Type.LINER 
+128) Train: ideal travel time = 142.667h, distance = 11556km, speed = 81km/h, number of wagons = 66
+129) Airplane: ideal travel time = 142.63h, distance = 18114km, speed = 127km/h, flight range = 20922km, load capacity = 123252kg
+130) Airplane: ideal travel time = 141.786h, distance = 16589km, speed = 117km/h, flight range = 1829km, load capacity = 106465kg
+131) Ship: ideal travel time = 141.487h, distance = 10753km, speed = 76km/h, displacement = 60420946kg, type = Type.TUG 
+132) Train: ideal travel time = 141.291h, distance = 14553km, speed = 103km/h, number of wagons = 54
+133) Airplane: ideal travel time = 141.176h, distance = 20047km, speed = 142km/h, flight range = 7500km, load capacity = 114293kg
+134) Train: ideal travel time = 140.69h, distance = 16320km, speed = 116km/h, number of wagons = 51
+135) Airplane: ideal travel time = 140.507h, distance = 10538km, speed = 75km/h, flight range = 20656km, load capacity = 107381kg
+136) Ship: ideal travel time = 139.898h, distance = 12311km, speed = 88km/h, displacement = 401567753kg, type = Type.LINER 
+137) Ship: ideal travel time = 138.953h, distance = 11950km, speed = 86km/h, displacement = 199557400kg, type = Type.LINER 
+138) Train: ideal travel time = 138.806h, distance = 14297km, speed = 103km/h, number of wagons = 48
+139) Airplane: ideal travel time = 138.11h, distance = 17540km, speed = 127km/h, flight range = 19566km, load capacity = 133836kg
+140) Train: ideal travel time = 137.7h, distance = 12393km, speed = 90km/h, number of wagons = 21
+141) Airplane: ideal travel time = 137.135h, distance = 17279km, speed = 126km/h, flight range = 17079km, load capacity = 94101kg
+142) Ship: ideal travel time = 136.38h, distance = 13638km, speed = 100km/h, displacement = 335074408kg, type = Type.LINER 
+143) Ship: ideal travel time = 136.148h, distance = 17427km, speed = 128km/h, displacement = 103171493kg, type = Type.TUG 
+144) Train: ideal travel time = 135.5h, distance = 13008km, speed = 96km/h, number of wagons = 68
+145) Train: ideal travel time = 135.463h, distance = 18152km, speed = 134km/h, number of wagons = 72
+146) Ship: ideal travel time = 135.069h, distance = 13642km, speed = 101km/h, displacement = 118166684kg, type = Type.TUG 
+147) Ship: ideal travel time = 135.033h, distance = 16204km, speed = 120km/h, displacement = 271051118kg, type = Type.LINER 
+148) Airplane: ideal travel time = 134.977h, distance = 17277km, speed = 128km/h, flight range = 29357km, load capacity = 118202kg
+149) Airplane: ideal travel time = 134.677h, distance = 13333km, speed = 99km/h, flight range = 17516km, load capacity = 20423kg
+150) Ship: ideal travel time = 134.451h, distance = 9546km, speed = 71km/h, displacement = 74438325kg, type = Type.TANKER 
+151) Airplane: ideal travel time = 134.327h, distance = 13567km, speed = 101km/h, flight range = 20418km, load capacity = 19669kg
+152) Train: ideal travel time = 134.165h, distance = 14624km, speed = 109km/h, number of wagons = 62
+153) Train: ideal travel time = 133.945h, distance = 12189km, speed = 91km/h, number of wagons = 69
+154) Ship: ideal travel time = 133.769h, distance = 17390km, speed = 130km/h, displacement = 398880464kg, type = Type.LINER 
+155) Train: ideal travel time = 133.435h, distance = 12276km, speed = 92km/h, number of wagons = 49
+156) Ship: ideal travel time = 133.111h, distance = 13178km, speed = 99km/h, displacement = 528403776kg, type = Type.TUG 
+157) Ship: ideal travel time = 133.024h, distance = 10908km, speed = 82km/h, displacement = 105220861kg, type = Type.TANKER 
+158) Airplane: ideal travel time = 132.5h, distance = 15105km, speed = 114km/h, flight range = 33263km, load capacity = 60547kg
+159) Ship: ideal travel time = 132.25h, distance = 19573km, speed = 148km/h, displacement = 116326356kg, type = Type.TUG 
+160) Train: ideal travel time = 132.218h, distance = 18775km, speed = 142km/h, number of wagons = 54
+161) Airplane: ideal travel time = 131.961h, distance = 13592km, speed = 103km/h, flight range = 8605km, load capacity = 44104kg
+162) Ship: ideal travel time = 130.984h, distance = 16373km, speed = 125km/h, displacement = 348680164kg, type = Type.LINER 
+163) Airplane: ideal travel time = 130.795h, distance = 15957km, speed = 122km/h, flight range = 21946km, load capacity = 88059kg
+164) Train: ideal travel time = 130.297h, distance = 14463km, speed = 111km/h, number of wagons = 47
+165) Ship: ideal travel time = 129.868h, distance = 15714km, speed = 121km/h, displacement = 381914612kg, type = Type.LINER 
+166) Airplane: ideal travel time = 129.721h, distance = 17642km, speed = 136km/h, flight range = 9597km, load capacity = 14274kg
+167) Ship: ideal travel time = 129.466h, distance = 17219km, speed = 133km/h, displacement = 550483371kg, type = Type.LINER 
+168) Airplane: ideal travel time = 129.459h, distance = 14370km, speed = 111km/h, flight range = 2020km, load capacity = 87423kg
+169) Ship: ideal travel time = 129.053h, distance = 19487km, speed = 151km/h, displacement = 269620691kg, type = Type.TUG 
+170) Train: ideal travel time = 128.294h, distance = 18346km, speed = 143km/h, number of wagons = 66
+171) Train: ideal travel time = 128.165h, distance = 10125km, speed = 79km/h, number of wagons = 66
+172) Ship: ideal travel time = 127.929h, distance = 8955km, speed = 70km/h, displacement = 116303084kg, type = Type.TANKER 
+173) Airplane: ideal travel time = 127.58h, distance = 12758km, speed = 100km/h, flight range = 19905km, load capacity = 114445kg
+174) Airplane: ideal travel time = 127.461h, distance = 9687km, speed = 76km/h, flight range = 10657km, load capacity = 49413kg
+175) Airplane: ideal travel time = 127.408h, distance = 15289km, speed = 120km/h, flight range = 12028km, load capacity = 95031kg
+176) Ship: ideal travel time = 126.853h, distance = 13827km, speed = 109km/h, displacement = 384844765kg, type = Type.LINER 
+177) Airplane: ideal travel time = 126.768h, distance = 17494km, speed = 138km/h, flight range = 24994km, load capacity = 68474kg
+178) Ship: ideal travel time = 126.722h, distance = 9124km, speed = 72km/h, displacement = 98322735kg, type = Type.TUG 
+179) Airplane: ideal travel time = 126.526h, distance = 9616km, speed = 76km/h, flight range = 15893km, load capacity = 41243kg
+180) Ship: ideal travel time = 126.339h, distance = 15287km, speed = 121km/h, displacement = 266876082kg, type = Type.LINER 
+181) Ship: ideal travel time = 126.315h, distance = 15663km, speed = 124km/h, displacement = 449050876kg, type = Type.TUG 
+182) Train: ideal travel time = 126.227h, distance = 16157km, speed = 128km/h, number of wagons = 17
+183) Train: ideal travel time = 125.624h, distance = 13693km, speed = 109km/h, number of wagons = 29
+184) Ship: ideal travel time = 125.575h, distance = 10925km, speed = 87km/h, displacement = 310598521kg, type = Type.TUG 
+185) Ship: ideal travel time = 125.18h, distance = 17400km, speed = 139km/h, displacement = 298451255kg, type = Type.TANKER 
+186) Train: ideal travel time = 124.989h, distance = 11874km, speed = 95km/h, number of wagons = 64
+187) Train: ideal travel time = 124.74h, distance = 19210km, speed = 154km/h, number of wagons = 13
+188) Ship: ideal travel time = 124.301h, distance = 11560km, speed = 93km/h, displacement = 477222255kg, type = Type.TANKER 
+189) Ship: ideal travel time = 124.166h, distance = 19494km, speed = 157km/h, displacement = 463780458kg, type = Type.TANKER 
+190) Ship: ideal travel time = 124.143h, distance = 18249km, speed = 147km/h, displacement = 532960187kg, type = Type.TUG 
+191) Ship: ideal travel time = 124.073h, distance = 10174km, speed = 82km/h, displacement = 363344554kg, type = Type.TANKER 
+192) Train: ideal travel time = 123.819h, distance = 17087km, speed = 138km/h, number of wagons = 29
+193) Airplane: ideal travel time = 123.803h, distance = 15104km, speed = 122km/h, flight range = 30036km, load capacity = 30242kg
+194) Airplane: ideal travel time = 123.75h, distance = 17820km, speed = 144km/h, flight range = 21071km, load capacity = 142283kg
+195) Airplane: ideal travel time = 123.638h, distance = 11622km, speed = 94km/h, flight range = 28227km, load capacity = 114234kg
+196) Ship: ideal travel time = 122.927h, distance = 10080km, speed = 82km/h, displacement = 236819699kg, type = Type.TANKER 
+197) Train: ideal travel time = 122.108h, distance = 18072km, speed = 148km/h, number of wagons = 11
+198) Airplane: ideal travel time = 121.993h, distance = 17323km, speed = 142km/h, flight range = 24931km, load capacity = 10789kg
+199) Ship: ideal travel time = 121.987h, distance = 19396km, speed = 159km/h, displacement = 71644704kg, type = Type.LINER 
+200) Airplane: ideal travel time = 121.831h, distance = 17300km, speed = 142km/h, flight range = 12878km, load capacity = 23941kg
+201) Ship: ideal travel time = 121.723h, distance = 12294km, speed = 101km/h, displacement = 527631272kg, type = Type.LINER 
+202) Train: ideal travel time = 121.722h, distance = 16189km, speed = 133km/h, number of wagons = 39
+203) Ship: ideal travel time = 121.402h, distance = 12383km, speed = 102km/h, displacement = 372051004kg, type = Type.TANKER 
+204) Airplane: ideal travel time = 121.39h, distance = 19301km, speed = 159km/h, flight range = 28652km, load capacity = 148515kg
+205) Train: ideal travel time = 121.208h, distance = 15757km, speed = 130km/h, number of wagons = 32
+206) Ship: ideal travel time = 120.939h, distance = 19713km, speed = 163km/h, displacement = 542612702kg, type = Type.TANKER 
+207) Ship: ideal travel time = 120.868h, distance = 18251km, speed = 151km/h, displacement = 205036219kg, type = Type.TANKER 
+208) Airplane: ideal travel time = 120.725h, distance = 9658km, speed = 80km/h, flight range = 7901km, load capacity = 60080kg
+209) Airplane: ideal travel time = 120.677h, distance = 16050km, speed = 133km/h, flight range = 39687km, load capacity = 2420kg
+210) Ship: ideal travel time = 120.462h, distance = 17226km, speed = 143km/h, displacement = 543039468kg, type = Type.LINER 
+211) Train: ideal travel time = 119.946h, distance = 8876km, speed = 74km/h, number of wagons = 12
+212) Airplane: ideal travel time = 119.728h, distance = 11015km, speed = 92km/h, flight range = 21136km, load capacity = 56635kg
+213) Ship: ideal travel time = 119.68h, distance = 11968km, speed = 100km/h, displacement = 110893800kg, type = Type.TANKER 
+214) Airplane: ideal travel time = 119.61h, distance = 9210km, speed = 77km/h, flight range = 39401km, load capacity = 122064kg
+215) Train: ideal travel time = 119.22h, distance = 11922km, speed = 100km/h, number of wagons = 4
+216) Train: ideal travel time = 119.173h, distance = 11679km, speed = 98km/h, number of wagons = 50
+217) Ship: ideal travel time = 118.752h, distance = 16269km, speed = 137km/h, displacement = 293585018kg, type = Type.TUG 
+218) Train: ideal travel time = 118.71h, distance = 11040km, speed = 93km/h, number of wagons = 38
+219) Airplane: ideal travel time = 118.386h, distance = 8287km, speed = 70km/h, flight range = 6969km, load capacity = 119486kg
+220) Airplane: ideal travel time = 118.091h, distance = 19485km, speed = 165km/h, flight range = 6871km, load capacity = 13235kg
+221) Ship: ideal travel time = 117.824h, distance = 14728km, speed = 125km/h, displacement = 145254961kg, type = Type.LINER 
+222) Train: ideal travel time = 117.649h, distance = 13059km, speed = 111km/h, number of wagons = 55
+223) Train: ideal travel time = 117.567h, distance = 17635km, speed = 150km/h, number of wagons = 16
+224) Train: ideal travel time = 117.028h, distance = 12756km, speed = 109km/h, number of wagons = 28
+225) Airplane: ideal travel time = 116.986h, distance = 16261km, speed = 139km/h, flight range = 39903km, load capacity = 103193kg
+226) Train: ideal travel time = 116.777h, distance = 10977km, speed = 94km/h, number of wagons = 63
+227) Ship: ideal travel time = 116.52h, distance = 19925km, speed = 171km/h, displacement = 150475759kg, type = Type.LINER 
+228) Airplane: ideal travel time = 116.428h, distance = 19327km, speed = 166km/h, flight range = 35479km, load capacity = 118896kg
+229) Train: ideal travel time = 116.241h, distance = 18831km, speed = 162km/h, number of wagons = 15
+230) Airplane: ideal travel time = 115.721h, distance = 12035km, speed = 104km/h, flight range = 25095km, load capacity = 99639kg
+231) Ship: ideal travel time = 115.614h, distance = 15261km, speed = 132km/h, displacement = 304004597kg, type = Type.TANKER 
+232) Train: ideal travel time = 115.221h, distance = 14057km, speed = 122km/h, number of wagons = 20
+233) Airplane: ideal travel time = 114.917h, distance = 18042km, speed = 157km/h, flight range = 24674km, load capacity = 65019kg
+234) Ship: ideal travel time = 114.87h, distance = 15048km, speed = 131km/h, displacement = 536698092kg, type = Type.TUG 
+235) Ship: ideal travel time = 114.795h, distance = 12857km, speed = 112km/h, displacement = 183676760kg, type = Type.TANKER 
+236) Train: ideal travel time = 114.704h, distance = 18238km, speed = 159km/h, number of wagons = 12
+237) Airplane: ideal travel time = 114.455h, distance = 15108km, speed = 132km/h, flight range = 5800km, load capacity = 108097kg
+238) Ship: ideal travel time = 114.455h, distance = 16367km, speed = 143km/h, displacement = 308141097kg, type = Type.LINER 
+239) Train: ideal travel time = 114.421h, distance = 16019km, speed = 140km/h, number of wagons = 26
+240) Train: ideal travel time = 114.023h, distance = 19498km, speed = 171km/h, number of wagons = 18
+241) Airplane: ideal travel time = 113.831h, distance = 18213km, speed = 160km/h, flight range = 15009km, load capacity = 123300kg
+242) Ship: ideal travel time = 113.058h, distance = 15602km, speed = 138km/h, displacement = 214336280kg, type = Type.TUG 
+243) Train: ideal travel time = 112.989h, distance = 9943km, speed = 88km/h, number of wagons = 38
+244) Ship: ideal travel time = 112.667h, distance = 17576km, speed = 156km/h, displacement = 512130867kg, type = Type.LINER 
+245) Airplane: ideal travel time = 112.606h, distance = 15990km, speed = 142km/h, flight range = 5616km, load capacity = 45289kg
+246) Train: ideal travel time = 112.572h, distance = 17899km, speed = 159km/h, number of wagons = 41
+247) Train: ideal travel time = 112.523h, distance = 14853km, speed = 132km/h, number of wagons = 9
+248) Train: ideal travel time = 112.371h, distance = 18766km, speed = 167km/h, number of wagons = 31
+249) Airplane: ideal travel time = 112.295h, distance = 19764km, speed = 176km/h, flight range = 14319km, load capacity = 66344kg
+250) Ship: ideal travel time = 112.218h, distance = 17506km, speed = 156km/h, displacement = 109109450kg, type = Type.LINER 
+251) Airplane: ideal travel time = 111.907h, distance = 18017km, speed = 161km/h, flight range = 37409km, load capacity = 108652kg
+252) Ship: ideal travel time = 111.888h, distance = 17902km, speed = 160km/h, displacement = 108337721kg, type = Type.LINER 
+253) Train: ideal travel time = 111.495h, distance = 12153km, speed = 109km/h, number of wagons = 21
+254) Airplane: ideal travel time = 111.375h, distance = 8910km, speed = 80km/h, flight range = 4036km, load capacity = 60572kg
+255) Ship: ideal travel time = 110.972h, distance = 15980km, speed = 144km/h, displacement = 334347051kg, type = Type.LINER 
+256) Ship: ideal travel time = 110.697h, distance = 15719km, speed = 142km/h, displacement = 449613542kg, type = Type.TANKER 
+257) Train: ideal travel time = 110.618h, distance = 12168km, speed = 110km/h, number of wagons = 46
+258) Train: ideal travel time = 110.474h, distance = 14914km, speed = 135km/h, number of wagons = 39
+259) Train: ideal travel time = 110.078h, distance = 18273km, speed = 166km/h, number of wagons = 43
+260) Train: ideal travel time = 109.987h, distance = 16388km, speed = 149km/h, number of wagons = 48
+261) Airplane: ideal travel time = 109.667h, distance = 15463km, speed = 141km/h, flight range = 23931km, load capacity = 44699kg
+262) Ship: ideal travel time = 109.491h, distance = 17628km, speed = 161km/h, displacement = 504898171kg, type = Type.TANKER 
+263) Train: ideal travel time = 109.457h, distance = 7662km, speed = 70km/h, number of wagons = 74
+264) Airplane: ideal travel time = 109.111h, distance = 14730km, speed = 135km/h, flight range = 22150km, load capacity = 73417kg
+265) Ship: ideal travel time = 108.837h, distance = 15999km, speed = 147km/h, displacement = 289034987kg, type = Type.LINER 
+266) Ship: ideal travel time = 108.714h, distance = 15220km, speed = 140km/h, displacement = 329561410kg, type = Type.TUG 
+267) Train: ideal travel time = 108.711h, distance = 18807km, speed = 173km/h, number of wagons = 50
+268) Ship: ideal travel time = 108.309h, distance = 10506km, speed = 97km/h, displacement = 184924660kg, type = Type.TUG 
+269) Train: ideal travel time = 108.292h, distance = 17435km, speed = 161km/h, number of wagons = 50
+270) Train: ideal travel time = 107.868h, distance = 11434km, speed = 106km/h, number of wagons = 34
+271) Train: ideal travel time = 107.818h, distance = 13046km, speed = 121km/h, number of wagons = 41
+272) Ship: ideal travel time = 107.745h, distance = 16485km, speed = 153km/h, displacement = 490746286kg, type = Type.LINER 
+273) Ship: ideal travel time = 107.68h, distance = 13137km, speed = 122km/h, displacement = 337576473kg, type = Type.TANKER 
+274) Ship: ideal travel time = 107.623h, distance = 15713km, speed = 146km/h, displacement = 549101534kg, type = Type.LINER 
+275) Ship: ideal travel time = 107.492h, distance = 12899km, speed = 120km/h, displacement = 267259442kg, type = Type.TUG 
+276) Ship: ideal travel time = 107.144h, distance = 19286km, speed = 180km/h, displacement = 265128972kg, type = Type.LINER 
+277) Ship: ideal travel time = 106.881h, distance = 17956km, speed = 168km/h, displacement = 325648603kg, type = Type.TANKER 
+278) Train: ideal travel time = 106.843h, distance = 19018km, speed = 178km/h, number of wagons = 42
+279) Ship: ideal travel time = 106.646h, distance = 12051km, speed = 113km/h, displacement = 95323466kg, type = Type.LINER 
+280) Train: ideal travel time = 106.299h, distance = 12437km, speed = 117km/h, number of wagons = 75
+281) Airplane: ideal travel time = 106.222h, distance = 7648km, speed = 72km/h, flight range = 7355km, load capacity = 49801kg
+282) Train: ideal travel time = 106.0h, distance = 10600km, speed = 100km/h, number of wagons = 13
+283) Ship: ideal travel time = 105.773h, distance = 18616km, speed = 176km/h, displacement = 365862752kg, type = Type.TANKER 
+284) Train: ideal travel time = 105.695h, distance = 14903km, speed = 141km/h, number of wagons = 28
+285) Train: ideal travel time = 105.689h, distance = 19341km, speed = 183km/h, number of wagons = 75
+286) Ship: ideal travel time = 105.519h, distance = 17094km, speed = 162km/h, displacement = 111691183kg, type = Type.TANKER 
+287) Ship: ideal travel time = 105.43h, distance = 16658km, speed = 158km/h, displacement = 122094691kg, type = Type.TUG 
+288) Train: ideal travel time = 105.369h, distance = 18861km, speed = 179km/h, number of wagons = 66
+289) Train: ideal travel time = 105.102h, distance = 17447km, speed = 166km/h, number of wagons = 18
+290) Ship: ideal travel time = 105.102h, distance = 19654km, speed = 187km/h, displacement = 154577783kg, type = Type.TANKER 
+291) Airplane: ideal travel time = 104.869h, distance = 16779km, speed = 160km/h, flight range = 18606km, load capacity = 81326kg
+292) Train: ideal travel time = 104.832h, distance = 10588km, speed = 101km/h, number of wagons = 65
+293) Ship: ideal travel time = 104.794h, distance = 11213km, speed = 107km/h, displacement = 368897327kg, type = Type.LINER 
+294) Train: ideal travel time = 104.0h, distance = 8320km, speed = 80km/h, number of wagons = 1
+295) Ship: ideal travel time = 103.946h, distance = 9563km, speed = 92km/h, displacement = 514365490kg, type = Type.LINER 
+296) Ship: ideal travel time = 103.876h, distance = 18490km, speed = 178km/h, displacement = 353876792kg, type = Type.TUG 
+297) Airplane: ideal travel time = 103.586h, distance = 16263km, speed = 157km/h, flight range = 2591km, load capacity = 56488kg
+298) Airplane: ideal travel time = 103.539h, distance = 19983km, speed = 193km/h, flight range = 10917km, load capacity = 105156kg
+299) Train: ideal travel time = 103.487h, distance = 8279km, speed = 80km/h, number of wagons = 9
+300) Airplane: ideal travel time = 103.076h, distance = 16183km, speed = 157km/h, flight range = 24810km, load capacity = 34771kg
+301) Airplane: ideal travel time = 103.044h, distance = 9377km, speed = 91km/h, flight range = 21602km, load capacity = 48826kg
+302) Ship: ideal travel time = 102.938h, distance = 19970km, speed = 194km/h, displacement = 65342007kg, type = Type.LINER 
+303) Train: ideal travel time = 102.844h, distance = 15838km, speed = 154km/h, number of wagons = 1
+304) Train: ideal travel time = 102.513h, distance = 11789km, speed = 115km/h, number of wagons = 25
+305) Airplane: ideal travel time = 102.309h, distance = 16881km, speed = 165km/h, flight range = 37606km, load capacity = 23002kg
+306) Ship: ideal travel time = 102.149h, distance = 16446km, speed = 161km/h, displacement = 153368975kg, type = Type.TUG 
+307) Airplane: ideal travel time = 101.533h, distance = 15433km, speed = 152km/h, flight range = 13141km, load capacity = 85382kg
+308) Ship: ideal travel time = 101.422h, distance = 17546km, speed = 173km/h, displacement = 198885701kg, type = Type.TUG 
+309) Train: ideal travel time = 101.416h, distance = 16835km, speed = 166km/h, number of wagons = 20
+310) Airplane: ideal travel time = 101.401h, distance = 15413km, speed = 152km/h, flight range = 11139km, load capacity = 33483kg
+311) Airplane: ideal travel time = 101.232h, distance = 10022km, speed = 99km/h, flight range = 4967km, load capacity = 138091kg
+312) Ship: ideal travel time = 101.179h, distance = 9612km, speed = 95km/h, displacement = 201436093kg, type = Type.TUG 
+313) Ship: ideal travel time = 101.052h, distance = 11621km, speed = 115km/h, displacement = 350155786kg, type = Type.TUG 
+314) Ship: ideal travel time = 100.636h, distance = 17410km, speed = 173km/h, displacement = 529525006kg, type = Type.TANKER 
+315) Airplane: ideal travel time = 100.577h, distance = 7845km, speed = 78km/h, flight range = 37502km, load capacity = 134814kg
+316) Train: ideal travel time = 100.561h, distance = 13978km, speed = 139km/h, number of wagons = 61
+317) Train: ideal travel time = 100.427h, distance = 11047km, speed = 110km/h, number of wagons = 17
+318) Airplane: ideal travel time = 100.143h, distance = 13319km, speed = 133km/h, flight range = 25426km, load capacity = 82796kg
+319) Train: ideal travel time = 100.059h, distance = 11807km, speed = 118km/h, number of wagons = 12
+320) Ship: ideal travel time = 100.03h, distance = 10103km, speed = 101km/h, displacement = 548520698kg, type = Type.TUG 
+321) Ship: ideal travel time = 99.844h, distance = 13479km, speed = 135km/h, displacement = 213007508kg, type = Type.LINER 
+322) Airplane: ideal travel time = 99.795h, distance = 17065km, speed = 171km/h, flight range = 14539km, load capacity = 138866kg
+323) Airplane: ideal travel time = 99.731h, distance = 15558km, speed = 156km/h, flight range = 11217km, load capacity = 55581kg
+324) Ship: ideal travel time = 99.694h, distance = 12063km, speed = 121km/h, displacement = 241522921kg, type = Type.TUG 
+325) Airplane: ideal travel time = 99.607h, distance = 8367km, speed = 84km/h, flight range = 7851km, load capacity = 87538kg
+326) Ship: ideal travel time = 99.583h, distance = 16730km, speed = 168km/h, displacement = 294663920kg, type = Type.TUG 
+327) Ship: ideal travel time = 99.5h, distance = 13134km, speed = 132km/h, displacement = 315432086kg, type = Type.TANKER 
+328) Airplane: ideal travel time = 99.487h, distance = 11839km, speed = 119km/h, flight range = 23514km, load capacity = 44869kg
+329) Airplane: ideal travel time = 99.344h, distance = 15895km, speed = 160km/h, flight range = 13773km, load capacity = 111793kg
+330) Airplane: ideal travel time = 99.3h, distance = 15888km, speed = 160km/h, flight range = 22897km, load capacity = 27083kg
+331) Train: ideal travel time = 98.978h, distance = 17816km, speed = 180km/h, number of wagons = 8
+332) Train: ideal travel time = 98.868h, distance = 18785km, speed = 190km/h, number of wagons = 11
+333) Ship: ideal travel time = 98.386h, distance = 17316km, speed = 176km/h, displacement = 93727283kg, type = Type.LINER 
+334) Airplane: ideal travel time = 98.271h, distance = 18868km, speed = 192km/h, flight range = 25712km, load capacity = 37618kg
+335) Train: ideal travel time = 98.044h, distance = 11079km, speed = 113km/h, number of wagons = 69
+336) Train: ideal travel time = 98.0h, distance = 12054km, speed = 123km/h, number of wagons = 48
+337) Ship: ideal travel time = 97.846h, distance = 10176km, speed = 104km/h, displacement = 506351878kg, type = Type.TANKER 
+338) Airplane: ideal travel time = 97.82h, distance = 14673km, speed = 150km/h, flight range = 25054km, load capacity = 10019kg
+339) Ship: ideal travel time = 97.716h, distance = 7231km, speed = 74km/h, displacement = 366174005kg, type = Type.TUG 
+340) Airplane: ideal travel time = 97.566h, distance = 12586km, speed = 129km/h, flight range = 29454km, load capacity = 125346kg
+341) Ship: ideal travel time = 97.443h, distance = 9452km, speed = 97km/h, displacement = 120839137kg, type = Type.TUG 
+342) Ship: ideal travel time = 97.377h, distance = 14704km, speed = 151km/h, displacement = 11135213kg, type = Type.LINER 
+343) Ship: ideal travel time = 97.178h, distance = 8746km, speed = 90km/h, displacement = 322714475kg, type = Type.TANKER 
+344) Train: ideal travel time = 97.156h, distance = 16808km, speed = 173km/h, number of wagons = 17
+345) Ship: ideal travel time = 97.039h, distance = 14750km, speed = 152km/h, displacement = 369429577kg, type = Type.LINER 
+346) Ship: ideal travel time = 96.87h, distance = 10462km, speed = 108km/h, displacement = 318091938kg, type = Type.TANKER 
+347) Ship: ideal travel time = 96.558h, distance = 10911km, speed = 113km/h, displacement = 258266023kg, type = Type.TANKER 
+348) Train: ideal travel time = 96.536h, distance = 14577km, speed = 151km/h, number of wagons = 51
+349) Ship: ideal travel time = 96.48h, distance = 16884km, speed = 175km/h, displacement = 286119425kg, type = Type.TANKER 
+350) Ship: ideal travel time = 96.444h, distance = 15624km, speed = 162km/h, displacement = 119413980kg, type = Type.TUG 
+351) Airplane: ideal travel time = 95.777h, distance = 10727km, speed = 112km/h, flight range = 29665km, load capacity = 58795kg
+352) Airplane: ideal travel time = 95.721h, distance = 9955km, speed = 104km/h, flight range = 26814km, load capacity = 44102kg
+353) Train: ideal travel time = 95.585h, distance = 16345km, speed = 171km/h, number of wagons = 38
+354) Train: ideal travel time = 95.298h, distance = 16963km, speed = 178km/h, number of wagons = 17
+355) Train: ideal travel time = 94.935h, distance = 17563km, speed = 185km/h, number of wagons = 60
+356) Ship: ideal travel time = 94.58h, distance = 14187km, speed = 150km/h, displacement = 50972491kg, type = Type.TUG 
+357) Airplane: ideal travel time = 94.55h, distance = 17019km, speed = 180km/h, flight range = 4859km, load capacity = 149531kg
+358) Airplane: ideal travel time = 94.328h, distance = 17262km, speed = 183km/h, flight range = 7318km, load capacity = 40571kg
+359) Train: ideal travel time = 94.045h, distance = 16552km, speed = 176km/h, number of wagons = 24
+360) Airplane: ideal travel time = 93.889h, distance = 12675km, speed = 135km/h, flight range = 30704km, load capacity = 64452kg
+361) Airplane: ideal travel time = 93.78h, distance = 11535km, speed = 123km/h, flight range = 16728km, load capacity = 74575kg
+362) Ship: ideal travel time = 93.567h, distance = 8421km, speed = 90km/h, displacement = 121196089kg, type = Type.TANKER 
+363) Train: ideal travel time = 93.362h, distance = 18579km, speed = 199km/h, number of wagons = 45
+364) Train: ideal travel time = 93.183h, distance = 17798km, speed = 191km/h, number of wagons = 63
+365) Ship: ideal travel time = 92.991h, distance = 9950km, speed = 107km/h, displacement = 304242555kg, type = Type.TUG 
+366) Ship: ideal travel time = 92.986h, distance = 13483km, speed = 145km/h, displacement = 514125448kg, type = Type.TANKER 
+367) Train: ideal travel time = 92.8h, distance = 11136km, speed = 120km/h, number of wagons = 27
+368) Train: ideal travel time = 92.744h, distance = 14468km, speed = 156km/h, number of wagons = 37
+369) Airplane: ideal travel time = 92.726h, distance = 11498km, speed = 124km/h, flight range = 6836km, load capacity = 62492kg
+370) Airplane: ideal travel time = 92.642h, distance = 13989km, speed = 151km/h, flight range = 23915km, load capacity = 11692kg
+371) Ship: ideal travel time = 92.0h, distance = 8004km, speed = 87km/h, displacement = 293235933kg, type = Type.LINER 
+372) Train: ideal travel time = 91.886h, distance = 16999km, speed = 185km/h, number of wagons = 18
+373) Airplane: ideal travel time = 91.818h, distance = 11110km, speed = 121km/h, flight range = 26442km, load capacity = 2846kg
+374) Train: ideal travel time = 91.742h, distance = 14954km, speed = 163km/h, number of wagons = 15
+375) Train: ideal travel time = 91.68h, distance = 17786km, speed = 194km/h, number of wagons = 75
+376) Train: ideal travel time = 91.648h, distance = 11731km, speed = 128km/h, number of wagons = 11
+377) Train: ideal travel time = 91.448h, distance = 12254km, speed = 134km/h, number of wagons = 9
+378) Airplane: ideal travel time = 91.407h, distance = 18190km, speed = 199km/h, flight range = 33090km, load capacity = 16583kg
+379) Airplane: ideal travel time = 91.389h, distance = 17638km, speed = 193km/h, flight range = 8822km, load capacity = 59532kg
+380) Ship: ideal travel time = 91.387h, distance = 12977km, speed = 142km/h, displacement = 112180753kg, type = Type.TUG 
+381) Train: ideal travel time = 91.362h, distance = 14892km, speed = 163km/h, number of wagons = 21
+382) Train: ideal travel time = 91.188h, distance = 13131km, speed = 144km/h, number of wagons = 72
+383) Airplane: ideal travel time = 91.132h, distance = 10389km, speed = 114km/h, flight range = 4962km, load capacity = 124991kg
+384) Ship: ideal travel time = 90.834h, distance = 18076km, speed = 199km/h, displacement = 446486457kg, type = Type.LINER 
+385) Ship: ideal travel time = 90.771h, distance = 15885km, speed = 175km/h, displacement = 61181166kg, type = Type.LINER 
+386) Ship: ideal travel time = 90.528h, distance = 18015km, speed = 199km/h, displacement = 463731095kg, type = Type.TUG 
+387) Airplane: ideal travel time = 90.471h, distance = 17280km, speed = 191km/h, flight range = 6562km, load capacity = 148278kg
+388) Ship: ideal travel time = 90.414h, distance = 12025km, speed = 133km/h, displacement = 79870838kg, type = Type.TUG 
+389) Train: ideal travel time = 90.311h, distance = 13637km, speed = 151km/h, number of wagons = 53
+390) Ship: ideal travel time = 90.304h, distance = 17248km, speed = 191km/h, displacement = 16029227kg, type = Type.LINER 
+391) Ship: ideal travel time = 90.237h, distance = 12543km, speed = 139km/h, displacement = 385660284kg, type = Type.TUG 
+392) Airplane: ideal travel time = 90.153h, distance = 14154km, speed = 157km/h, flight range = 32140km, load capacity = 20615kg
+393) Train: ideal travel time = 89.91h, distance = 15914km, speed = 177km/h, number of wagons = 57
+394) Train: ideal travel time = 89.864h, distance = 7279km, speed = 81km/h, number of wagons = 52
+395) Airplane: ideal travel time = 89.342h, distance = 14384km, speed = 161km/h, flight range = 7560km, load capacity = 91068kg
+396) Train: ideal travel time = 89.322h, distance = 10540km, speed = 118km/h, number of wagons = 1
+397) Ship: ideal travel time = 89.305h, distance = 11699km, speed = 131km/h, displacement = 61012867kg, type = Type.TANKER 
+398) Train: ideal travel time = 89.055h, distance = 6501km, speed = 73km/h, number of wagons = 4
+399) Airplane: ideal travel time = 88.967h, distance = 10943km, speed = 123km/h, flight range = 17660km, load capacity = 63667kg
+400) Ship: ideal travel time = 88.667h, distance = 10906km, speed = 123km/h, displacement = 519883091kg, type = Type.TANKER 
+401) Airplane: ideal travel time = 88.609h, distance = 14266km, speed = 161km/h, flight range = 9710km, load capacity = 48584kg
+402) Train: ideal travel time = 88.571h, distance = 16297km, speed = 184km/h, number of wagons = 74
+403) Train: ideal travel time = 88.352h, distance = 8040km, speed = 91km/h, number of wagons = 74
+404) Train: ideal travel time = 88.281h, distance = 11918km, speed = 135km/h, number of wagons = 8
+405) Train: ideal travel time = 88.185h, distance = 15697km, speed = 178km/h, number of wagons = 44
+406) Ship: ideal travel time = 87.856h, distance = 15902km, speed = 181km/h, displacement = 31473400kg, type = Type.LINER 
+407) Airplane: ideal travel time = 87.849h, distance = 17482km, speed = 199km/h, flight range = 12517km, load capacity = 132248kg
+408) Airplane: ideal travel time = 87.76h, distance = 9127km, speed = 104km/h, flight range = 445km, load capacity = 87242kg
+409) Ship: ideal travel time = 87.752h, distance = 8863km, speed = 101km/h, displacement = 61692693kg, type = Type.LINER 
+410) Train: ideal travel time = 87.693h, distance = 17451km, speed = 199km/h, number of wagons = 6
+411) Ship: ideal travel time = 87.524h, distance = 14529km, speed = 166km/h, displacement = 1222912kg, type = Type.TUG 
+412) Airplane: ideal travel time = 87.368h, distance = 11882km, speed = 136km/h, flight range = 33748km, load capacity = 90193kg
+413) Train: ideal travel time = 87.23h, distance = 14393km, speed = 165km/h, number of wagons = 67
+414) Airplane: ideal travel time = 87.032h, distance = 13664km, speed = 157km/h, flight range = 5863km, load capacity = 26773kg
+415) Ship: ideal travel time = 86.993h, distance = 12440km, speed = 143km/h, displacement = 311770623kg, type = Type.LINER 
+416) Airplane: ideal travel time = 86.99h, distance = 17224km, speed = 198km/h, flight range = 28022km, load capacity = 79795kg
+417) Airplane: ideal travel time = 86.7h, distance = 15606km, speed = 180km/h, flight range = 16187km, load capacity = 121739kg
+418) Ship: ideal travel time = 86.579h, distance = 8225km, speed = 95km/h, displacement = 503331902kg, type = Type.LINER 
+419) Train: ideal travel time = 86.481h, distance = 11156km, speed = 129km/h, number of wagons = 38
+420) Train: ideal travel time = 85.822h, distance = 14504km, speed = 169km/h, number of wagons = 24
+421) Airplane: ideal travel time = 85.434h, distance = 16745km, speed = 196km/h, flight range = 27616km, load capacity = 24985kg
+422) Airplane: ideal travel time = 85.229h, distance = 11932km, speed = 140km/h, flight range = 18140km, load capacity = 128922kg
+423) Train: ideal travel time = 85.0h, distance = 15640km, speed = 184km/h, number of wagons = 31
+424) Airplane: ideal travel time = 84.767h, distance = 15258km, speed = 180km/h, flight range = 22158km, load capacity = 15002kg
+425) Airplane: ideal travel time = 84.082h, distance = 14378km, speed = 171km/h, flight range = 12070km, load capacity = 90950kg
+426) Train: ideal travel time = 83.508h, distance = 10856km, speed = 130km/h, number of wagons = 62
+427) Ship: ideal travel time = 83.507h, distance = 6263km, speed = 75km/h, displacement = 198495374kg, type = Type.TUG 
+428) Airplane: ideal travel time = 83.275h, distance = 14823km, speed = 178km/h, flight range = 2094km, load capacity = 71774kg
+429) Train: ideal travel time = 83.224h, distance = 8156km, speed = 98km/h, number of wagons = 65
+430) Airplane: ideal travel time = 83.222h, distance = 14647km, speed = 176km/h, flight range = 22081km, load capacity = 138116kg
+431) Airplane: ideal travel time = 83.043h, distance = 11709km, speed = 141km/h, flight range = 15053km, load capacity = 42042kg
+432) Ship: ideal travel time = 83.039h, distance = 10712km, speed = 129km/h, displacement = 232902821kg, type = Type.TANKER 
+433) Train: ideal travel time = 82.78h, distance = 15066km, speed = 182km/h, number of wagons = 52
+434) Ship: ideal travel time = 82.566h, distance = 16348km, speed = 198km/h, displacement = 407069784kg, type = Type.TANKER 
+435) Train: ideal travel time = 82.281h, distance = 12013km, speed = 146km/h, number of wagons = 14
+436) Train: ideal travel time = 82.239h, distance = 5839km, speed = 71km/h, number of wagons = 1
+437) Airplane: ideal travel time = 81.96h, distance = 14179km, speed = 173km/h, flight range = 25525km, load capacity = 67989kg
+438) Ship: ideal travel time = 81.924h, distance = 7537km, speed = 92km/h, displacement = 531258322kg, type = Type.TUG 
+439) Airplane: ideal travel time = 81.752h, distance = 12181km, speed = 149km/h, flight range = 13237km, load capacity = 120755kg
+440) Train: ideal travel time = 81.712h, distance = 12747km, speed = 156km/h, number of wagons = 17
+441) Train: ideal travel time = 81.707h, distance = 13400km, speed = 164km/h, number of wagons = 4
+442) Airplane: ideal travel time = 81.645h, distance = 11512km, speed = 141km/h, flight range = 28408km, load capacity = 77919kg
+443) Airplane: ideal travel time = 81.459h, distance = 12789km, speed = 157km/h, flight range = 20552km, load capacity = 123055kg
+444) Airplane: ideal travel time = 81.189h, distance = 13315km, speed = 164km/h, flight range = 38638km, load capacity = 38099kg
+445) Train: ideal travel time = 81.07h, distance = 16214km, speed = 200km/h, number of wagons = 34
+446) Airplane: ideal travel time = 80.57h, distance = 7493km, speed = 93km/h, flight range = 20502km, load capacity = 76803kg
+447) Airplane: ideal travel time = 80.456h, distance = 6356km, speed = 79km/h, flight range = 23400km, load capacity = 149139kg
+448) Airplane: ideal travel time = 80.348h, distance = 9240km, speed = 115km/h, flight range = 31806km, load capacity = 139428kg
+449) Airplane: ideal travel time = 80.307h, distance = 11002km, speed = 137km/h, flight range = 13594km, load capacity = 89867kg
+450) Train: ideal travel time = 80.135h, distance = 11860km, speed = 148km/h, number of wagons = 65
+451) Train: ideal travel time = 80.118h, distance = 7451km, speed = 93km/h, number of wagons = 18
+452) Airplane: ideal travel time = 79.904h, distance = 12545km, speed = 157km/h, flight range = 31006km, load capacity = 106855kg
+453) Airplane: ideal travel time = 79.822h, distance = 13490km, speed = 169km/h, flight range = 7975km, load capacity = 52827kg
+454) Ship: ideal travel time = 79.739h, distance = 14353km, speed = 180km/h, displacement = 55630375kg, type = Type.TUG 
+455) Airplane: ideal travel time = 79.627h, distance = 10033km, speed = 126km/h, flight range = 24476km, load capacity = 121226kg
+456) Airplane: ideal travel time = 79.589h, distance = 14724km, speed = 185km/h, flight range = 29602km, load capacity = 85588kg
+457) Airplane: ideal travel time = 79.568h, distance = 11776km, speed = 148km/h, flight range = 24693km, load capacity = 82901kg
+458) Ship: ideal travel time = 79.557h, distance = 13286km, speed = 167km/h, displacement = 376378384kg, type = Type.TANKER 
+459) Train: ideal travel time = 79.167h, distance = 12350km, speed = 156km/h, number of wagons = 7
+460) Airplane: ideal travel time = 78.938h, distance = 8841km, speed = 112km/h, flight range = 14387km, load capacity = 128971kg
+461) Ship: ideal travel time = 78.905h, distance = 6628km, speed = 84km/h, displacement = 309464592kg, type = Type.TUG 
+462) Train: ideal travel time = 78.808h, distance = 9457km, speed = 120km/h, number of wagons = 25
+463) Ship: ideal travel time = 78.667h, distance = 6844km, speed = 87km/h, displacement = 28048423kg, type = Type.TUG 
+464) Airplane: ideal travel time = 78.489h, distance = 13814km, speed = 176km/h, flight range = 3199km, load capacity = 34235kg
+465) Airplane: ideal travel time = 78.455h, distance = 10513km, speed = 134km/h, flight range = 15398km, load capacity = 77294kg
+466) Ship: ideal travel time = 78.153h, distance = 7659km, speed = 98km/h, displacement = 545899407kg, type = Type.TUG 
+467) Ship: ideal travel time = 78.126h, distance = 11172km, speed = 143km/h, displacement = 501237778kg, type = Type.TANKER 
+468) Ship: ideal travel time = 78.121h, distance = 7734km, speed = 99km/h, displacement = 348833316kg, type = Type.TANKER 
+469) Train: ideal travel time = 77.88h, distance = 8411km, speed = 108km/h, number of wagons = 45
+470) Train: ideal travel time = 77.652h, distance = 10949km, speed = 141km/h, number of wagons = 19
+471) Train: ideal travel time = 77.518h, distance = 15426km, speed = 199km/h, number of wagons = 72
+472) Train: ideal travel time = 77.412h, distance = 11457km, speed = 148km/h, number of wagons = 8
+473) Airplane: ideal travel time = 77.397h, distance = 6037km, speed = 78km/h, flight range = 16337km, load capacity = 146826kg
+474) Airplane: ideal travel time = 77.122h, distance = 12648km, speed = 164km/h, flight range = 1473km, load capacity = 93350kg
+475) Airplane: ideal travel time = 77.112h, distance = 7557km, speed = 98km/h, flight range = 13464km, load capacity = 5424kg
+476) Ship: ideal travel time = 76.835h, distance = 10219km, speed = 133km/h, displacement = 508061899kg, type = Type.TUG 
+477) Airplane: ideal travel time = 76.348h, distance = 10536km, speed = 138km/h, flight range = 31014km, load capacity = 110818kg
+478) Airplane: ideal travel time = 76.34h, distance = 10764km, speed = 141km/h, flight range = 12731km, load capacity = 40743kg
+479) Ship: ideal travel time = 76.171h, distance = 5789km, speed = 76km/h, displacement = 508368984kg, type = Type.TANKER 
+480) Airplane: ideal travel time = 75.916h, distance = 12602km, speed = 166km/h, flight range = 1768km, load capacity = 118724kg
+481) Airplane: ideal travel time = 75.749h, distance = 13862km, speed = 183km/h, flight range = 6654km, load capacity = 87888kg
+482) Ship: ideal travel time = 75.736h, distance = 9467km, speed = 125km/h, displacement = 124612017kg, type = Type.TUG 
+483) Train: ideal travel time = 75.648h, distance = 6884km, speed = 91km/h, number of wagons = 68
+484) Ship: ideal travel time = 75.577h, distance = 8389km, speed = 111km/h, displacement = 116010198kg, type = Type.TANKER 
+485) Ship: ideal travel time = 75.549h, distance = 13901km, speed = 184km/h, displacement = 137651498kg, type = Type.TANKER 
+486) Airplane: ideal travel time = 75.512h, distance = 9137km, speed = 121km/h, flight range = 31774km, load capacity = 54650kg
+487) Ship: ideal travel time = 75.44h, distance = 6337km, speed = 84km/h, displacement = 317550669kg, type = Type.LINER 
+488) Ship: ideal travel time = 75.4h, distance = 7917km, speed = 105km/h, displacement = 136006611kg, type = Type.TANKER 
+489) Train: ideal travel time = 75.378h, distance = 12362km, speed = 164km/h, number of wagons = 71
+490) Train: ideal travel time = 75.299h, distance = 10316km, speed = 137km/h, number of wagons = 40
+491) Train: ideal travel time = 75.224h, distance = 6394km, speed = 85km/h, number of wagons = 36
+492) Ship: ideal travel time = 74.953h, distance = 14466km, speed = 193km/h, displacement = 88462219kg, type = Type.LINER 
+493) Ship: ideal travel time = 74.826h, distance = 6435km, speed = 86km/h, displacement = 457443579kg, type = Type.TANKER 
+494) Train: ideal travel time = 74.82h, distance = 10400km, speed = 139km/h, number of wagons = 15
+495) Ship: ideal travel time = 74.788h, distance = 11667km, speed = 156km/h, displacement = 493790247kg, type = Type.TANKER 
+496) Train: ideal travel time = 74.436h, distance = 10421km, speed = 140km/h, number of wagons = 58
+497) Train: ideal travel time = 74.356h, distance = 14425km, speed = 194km/h, number of wagons = 4
+498) Airplane: ideal travel time = 74.355h, distance = 11302km, speed = 152km/h, flight range = 28766km, load capacity = 63272kg
+499) Train: ideal travel time = 74.251h, distance = 12994km, speed = 175km/h, number of wagons = 13
+500) Train: ideal travel time = 74.171h, distance = 5192km, speed = 70km/h, number of wagons = 33
+501) Ship: ideal travel time = 74.034h, distance = 10957km, speed = 148km/h, displacement = 418769503kg, type = Type.TUG 
+502) Train: ideal travel time = 73.936h, distance = 5767km, speed = 78km/h, number of wagons = 4
+503) Airplane: ideal travel time = 73.905h, distance = 10864km, speed = 147km/h, flight range = 16551km, load capacity = 26917kg
+504) Ship: ideal travel time = 73.698h, distance = 9286km, speed = 126km/h, displacement = 425949517kg, type = Type.LINER 
+505) Airplane: ideal travel time = 73.683h, distance = 10242km, speed = 139km/h, flight range = 7918km, load capacity = 109107kg
+506) Train: ideal travel time = 73.638h, distance = 14654km, speed = 199km/h, number of wagons = 63
+507) Ship: ideal travel time = 73.595h, distance = 11260km, speed = 153km/h, displacement = 429026630kg, type = Type.LINER 
+508) Airplane: ideal travel time = 73.388h, distance = 13430km, speed = 183km/h, flight range = 29314km, load capacity = 34293kg
+509) Ship: ideal travel time = 73.317h, distance = 7625km, speed = 104km/h, displacement = 88847151kg, type = Type.TUG 
+510) Airplane: ideal travel time = 73.169h, distance = 10829km, speed = 148km/h, flight range = 20736km, load capacity = 58844kg
+511) Train: ideal travel time = 73.143h, distance = 6656km, speed = 91km/h, number of wagons = 24
+512) Airplane: ideal travel time = 73.081h, distance = 14397km, speed = 197km/h, flight range = 9922km, load capacity = 124726kg
+513) Airplane: ideal travel time = 72.808h, distance = 11358km, speed = 156km/h, flight range = 28729km, load capacity = 28498kg
+514) Airplane: ideal travel time = 72.641h, distance = 13148km, speed = 181km/h, flight range = 23504km, load capacity = 132178kg
+515) Airplane: ideal travel time = 72.602h, distance = 9656km, speed = 133km/h, flight range = 28379km, load capacity = 21370kg
+516) Airplane: ideal travel time = 72.43h, distance = 6229km, speed = 86km/h, flight range = 13453km, load capacity = 130001kg
+517) Airplane: ideal travel time = 72.159h, distance = 13638km, speed = 189km/h, flight range = 18280km, load capacity = 53655kg
+518) Ship: ideal travel time = 72.089h, distance = 12976km, speed = 180km/h, displacement = 374379892kg, type = Type.TANKER 
+519) Ship: ideal travel time = 71.95h, distance = 13023km, speed = 181km/h, displacement = 201749293kg, type = Type.TUG 
+520) Airplane: ideal travel time = 71.943h, distance = 8849km, speed = 123km/h, flight range = 18882km, load capacity = 41616kg
+521) Train: ideal travel time = 71.922h, distance = 10141km, speed = 141km/h, number of wagons = 23
+522) Airplane: ideal travel time = 71.91h, distance = 6400km, speed = 89km/h, flight range = 1504km, load capacity = 125996kg
+523) Ship: ideal travel time = 71.25h, distance = 13965km, speed = 196km/h, displacement = 71134928kg, type = Type.LINER 
+524) Ship: ideal travel time = 71.201h, distance = 14169km, speed = 199km/h, displacement = 449528179kg, type = Type.LINER 
+525) Train: ideal travel time = 70.691h, distance = 10745km, speed = 152km/h, number of wagons = 45
+526) Train: ideal travel time = 70.59h, distance = 12918km, speed = 183km/h, number of wagons = 72
+527) Ship: ideal travel time = 70.581h, distance = 12140km, speed = 172km/h, displacement = 107390812kg, type = Type.TANKER 
+528) Train: ideal travel time = 70.399h, distance = 10067km, speed = 143km/h, number of wagons = 57
+529) Airplane: ideal travel time = 70.366h, distance = 11540km, speed = 164km/h, flight range = 27275km, load capacity = 5753kg
+530) Airplane: ideal travel time = 70.353h, distance = 9779km, speed = 139km/h, flight range = 20862km, load capacity = 52426kg
+531) Airplane: ideal travel time = 70.113h, distance = 10587km, speed = 151km/h, flight range = 27088km, load capacity = 140340kg
+532) Train: ideal travel time = 69.945h, distance = 13919km, speed = 199km/h, number of wagons = 7
+533) Train: ideal travel time = 69.762h, distance = 9976km, speed = 143km/h, number of wagons = 21
+534) Ship: ideal travel time = 69.702h, distance = 11222km, speed = 161km/h, displacement = 394001427kg, type = Type.TANKER 
+535) Ship: ideal travel time = 69.168h, distance = 11966km, speed = 173km/h, displacement = 408768328kg, type = Type.LINER 
+536) Train: ideal travel time = 69.119h, distance = 10990km, speed = 159km/h, number of wagons = 74
+537) Airplane: ideal travel time = 69.014h, distance = 4969km, speed = 72km/h, flight range = 38186km, load capacity = 78892kg
+538) Train: ideal travel time = 68.783h, distance = 6328km, speed = 92km/h, number of wagons = 35
+539) Train: ideal travel time = 68.701h, distance = 5977km, speed = 87km/h, number of wagons = 7
+540) Ship: ideal travel time = 68.443h, distance = 13278km, speed = 194km/h, displacement = 376575433kg, type = Type.LINER 
+541) Airplane: ideal travel time = 68.252h, distance = 7576km, speed = 111km/h, flight range = 34068km, load capacity = 43988kg
+542) Airplane: ideal travel time = 68.005h, distance = 13397km, speed = 197km/h, flight range = 35005km, load capacity = 73209kg
+543) Train: ideal travel time = 67.98h, distance = 6662km, speed = 98km/h, number of wagons = 36
+544) Airplane: ideal travel time = 67.961h, distance = 6932km, speed = 102km/h, flight range = 34292km, load capacity = 23277kg
+545) Airplane: ideal travel time = 67.728h, distance = 9211km, speed = 136km/h, flight range = 30543km, load capacity = 149128kg
+546) Ship: ideal travel time = 67.186h, distance = 12631km, speed = 188km/h, displacement = 198306824kg, type = Type.LINER 
+547) Ship: ideal travel time = 67.013h, distance = 10722km, speed = 160km/h, displacement = 422836568kg, type = Type.LINER 
+548) Train: ideal travel time = 66.648h, distance = 11930km, speed = 179km/h, number of wagons = 35
+549) Airplane: ideal travel time = 66.647h, distance = 9997km, speed = 150km/h, flight range = 12275km, load capacity = 114671kg
+550) Train: ideal travel time = 66.485h, distance = 6449km, speed = 97km/h, number of wagons = 68
+551) Airplane: ideal travel time = 66.432h, distance = 4916km, speed = 74km/h, flight range = 9605km, load capacity = 42153kg
+552) Ship: ideal travel time = 66.329h, distance = 10281km, speed = 155km/h, displacement = 114534896kg, type = Type.TUG 
+553) Ship: ideal travel time = 65.989h, distance = 5807km, speed = 88km/h, displacement = 299160989kg, type = Type.LINER 
+554) Train: ideal travel time = 65.745h, distance = 9796km, speed = 149km/h, number of wagons = 26
+555) Ship: ideal travel time = 65.679h, distance = 8604km, speed = 131km/h, displacement = 350163145kg, type = Type.TANKER 
+556) Train: ideal travel time = 65.591h, distance = 8658km, speed = 132km/h, number of wagons = 38
+557) Train: ideal travel time = 65.538h, distance = 11207km, speed = 171km/h, number of wagons = 71
+558) Ship: ideal travel time = 65.352h, distance = 11698km, speed = 179km/h, displacement = 372217866kg, type = Type.TUG 
+559) Airplane: ideal travel time = 65.072h, distance = 8980km, speed = 138km/h, flight range = 22938km, load capacity = 27434kg
+560) Train: ideal travel time = 65.047h, distance = 5594km, speed = 86km/h, number of wagons = 70
+561) Airplane: ideal travel time = 64.841h, distance = 8559km, speed = 132km/h, flight range = 30107km, load capacity = 20349kg
+562) Ship: ideal travel time = 64.389h, distance = 5795km, speed = 90km/h, displacement = 135043680kg, type = Type.LINER 
+563) Airplane: ideal travel time = 64.303h, distance = 12089km, speed = 188km/h, flight range = 27432km, load capacity = 88311kg
+564) Train: ideal travel time = 64.295h, distance = 6108km, speed = 95km/h, number of wagons = 56
+565) Train: ideal travel time = 64.294h, distance = 6558km, speed = 102km/h, number of wagons = 42
+566) Train: ideal travel time = 64.278h, distance = 6942km, speed = 108km/h, number of wagons = 67
+567) Train: ideal travel time = 64.179h, distance = 11809km, speed = 184km/h, number of wagons = 63
+568) Airplane: ideal travel time = 64.138h, distance = 12058km, speed = 188km/h, flight range = 19719km, load capacity = 48984kg
+569) Ship: ideal travel time = 63.964h, distance = 8827km, speed = 138km/h, displacement = 540470669kg, type = Type.LINER 
+570) Ship: ideal travel time = 63.945h, distance = 4668km, speed = 73km/h, displacement = 358618994kg, type = Type.LINER 
+571) Ship: ideal travel time = 63.905h, distance = 9458km, speed = 148km/h, displacement = 402905118kg, type = Type.TANKER 
+572) Train: ideal travel time = 63.511h, distance = 8447km, speed = 133km/h, number of wagons = 38
+573) Train: ideal travel time = 63.418h, distance = 8942km, speed = 141km/h, number of wagons = 39
+574) Train: ideal travel time = 63.158h, distance = 10421km, speed = 165km/h, number of wagons = 28
+575) Train: ideal travel time = 63.055h, distance = 10278km, speed = 163km/h, number of wagons = 18
+576) Train: ideal travel time = 63.0h, distance = 11844km, speed = 188km/h, number of wagons = 74
+577) Airplane: ideal travel time = 62.989h, distance = 11149km, speed = 177km/h, flight range = 6238km, load capacity = 58638kg
+578) Train: ideal travel time = 62.91h, distance = 11135km, speed = 177km/h, number of wagons = 39
+579) Airplane: ideal travel time = 62.572h, distance = 11263km, speed = 180km/h, flight range = 39509km, load capacity = 146936kg
+580) Airplane: ideal travel time = 62.489h, distance = 11498km, speed = 184km/h, flight range = 19679km, load capacity = 61035kg
+581) Airplane: ideal travel time = 62.388h, distance = 9982km, speed = 160km/h, flight range = 3270km, load capacity = 86876kg
+582) Airplane: ideal travel time = 62.209h, distance = 9518km, speed = 153km/h, flight range = 12913km, load capacity = 143653kg
+583) Ship: ideal travel time = 62.033h, distance = 11352km, speed = 183km/h, displacement = 40500766kg, type = Type.TUG 
+584) Ship: ideal travel time = 62.0h, distance = 7130km, speed = 115km/h, displacement = 537501702kg, type = Type.TANKER 
+585) Airplane: ideal travel time = 61.994h, distance = 10043km, speed = 162km/h, flight range = 579km, load capacity = 58874kg
+586) Ship: ideal travel time = 61.89h, distance = 7303km, speed = 118km/h, displacement = 335224483kg, type = Type.TUG 
+587) Train: ideal travel time = 61.845h, distance = 11998km, speed = 194km/h, number of wagons = 2
+588) Train: ideal travel time = 61.841h, distance = 8534km, speed = 138km/h, number of wagons = 0
+589) Airplane: ideal travel time = 61.638h, distance = 9184km, speed = 149km/h, flight range = 4551km, load capacity = 136756kg
+590) Train: ideal travel time = 61.47h, distance = 10081km, speed = 164km/h, number of wagons = 11
+591) Train: ideal travel time = 61.32h, distance = 9014km, speed = 147km/h, number of wagons = 35
+592) Airplane: ideal travel time = 61.238h, distance = 8757km, speed = 143km/h, flight range = 111km, load capacity = 77894kg
+593) Ship: ideal travel time = 61.158h, distance = 8501km, speed = 139km/h, displacement = 280517612kg, type = Type.LINER 
+594) Ship: ideal travel time = 60.963h, distance = 8230km, speed = 135km/h, displacement = 257922470kg, type = Type.TUG 
+595) Airplane: ideal travel time = 60.88h, distance = 11628km, speed = 191km/h, flight range = 2101km, load capacity = 36584kg
+596) Train: ideal travel time = 60.877h, distance = 6453km, speed = 106km/h, number of wagons = 69
+597) Ship: ideal travel time = 60.856h, distance = 10163km, speed = 167km/h, displacement = 34396572kg, type = Type.LINER 
+598) Train: ideal travel time = 60.733h, distance = 5466km, speed = 90km/h, number of wagons = 27
+599) Train: ideal travel time = 60.715h, distance = 8318km, speed = 137km/h, number of wagons = 67
+600) Ship: ideal travel time = 60.324h, distance = 8747km, speed = 145km/h, displacement = 473682279kg, type = Type.LINER 
+601) Airplane: ideal travel time = 60.265h, distance = 10908km, speed = 181km/h, flight range = 18541km, load capacity = 97797kg
+602) Train: ideal travel time = 60.159h, distance = 9084km, speed = 151km/h, number of wagons = 32
+603) Train: ideal travel time = 59.99h, distance = 11878km, speed = 198km/h, number of wagons = 25
+604) Ship: ideal travel time = 59.765h, distance = 4841km, speed = 81km/h, displacement = 107794560kg, type = Type.TANKER 
+605) Train: ideal travel time = 59.696h, distance = 8059km, speed = 135km/h, number of wagons = 67
+606) Ship: ideal travel time = 59.306h, distance = 11446km, speed = 193km/h, displacement = 242514787kg, type = Type.TANKER 
+607) Ship: ideal travel time = 59.181h, distance = 8818km, speed = 149km/h, displacement = 83087926kg, type = Type.TUG 
+608) Ship: ideal travel time = 59.139h, distance = 11059km, speed = 187km/h, displacement = 376115093kg, type = Type.LINER 
+609) Airplane: ideal travel time = 58.871h, distance = 5946km, speed = 101km/h, flight range = 29941km, load capacity = 30512kg
+610) Train: ideal travel time = 58.641h, distance = 7506km, speed = 128km/h, number of wagons = 25
+611) Ship: ideal travel time = 58.504h, distance = 7664km, speed = 131km/h, displacement = 461113778kg, type = Type.LINER 
+612) Ship: ideal travel time = 58.477h, distance = 10292km, speed = 176km/h, displacement = 502145270kg, type = Type.TUG 
+613) Train: ideal travel time = 58.269h, distance = 11246km, speed = 193km/h, number of wagons = 30
+614) Airplane: ideal travel time = 57.99h, distance = 5799km, speed = 100km/h, flight range = 33465km, load capacity = 626kg
+615) Train: ideal travel time = 57.598h, distance = 9446km, speed = 164km/h, number of wagons = 34
+616) Train: ideal travel time = 57.505h, distance = 11386km, speed = 198km/h, number of wagons = 56
+617) Airplane: ideal travel time = 57.46h, distance = 8619km, speed = 150km/h, flight range = 15202km, load capacity = 96248kg
+618) Ship: ideal travel time = 57.22h, distance = 8068km, speed = 141km/h, displacement = 20685663kg, type = Type.LINER 
+619) Airplane: ideal travel time = 57.159h, distance = 8288km, speed = 145km/h, flight range = 36526km, load capacity = 68623kg
+620) Airplane: ideal travel time = 57.082h, distance = 9704km, speed = 170km/h, flight range = 14529km, load capacity = 2575kg
+621) Ship: ideal travel time = 57.065h, distance = 4394km, speed = 77km/h, displacement = 231357238kg, type = Type.LINER 
+622) Airplane: ideal travel time = 56.841h, distance = 8924km, speed = 157km/h, flight range = 17377km, load capacity = 43235kg
+623) Train: ideal travel time = 56.582h, distance = 5149km, speed = 91km/h, number of wagons = 23
+624) Train: ideal travel time = 56.416h, distance = 5021km, speed = 89km/h, number of wagons = 59
+625) Ship: ideal travel time = 56.407h, distance = 11225km, speed = 199km/h, displacement = 249169332kg, type = Type.TANKER 
+626) Ship: ideal travel time = 56.344h, distance = 7043km, speed = 125km/h, displacement = 312985554kg, type = Type.TANKER 
+627) Ship: ideal travel time = 56.049h, distance = 10201km, speed = 182km/h, displacement = 356143973kg, type = Type.TANKER 
+628) Ship: ideal travel time = 55.807h, distance = 9264km, speed = 166km/h, displacement = 138565617kg, type = Type.TUG 
+629) Ship: ideal travel time = 55.769h, distance = 8198km, speed = 147km/h, displacement = 310617903kg, type = Type.TANKER 
+630) Train: ideal travel time = 55.766h, distance = 4294km, speed = 77km/h, number of wagons = 11
+631) Airplane: ideal travel time = 55.523h, distance = 10716km, speed = 193km/h, flight range = 19743km, load capacity = 142427kg
+632) Airplane: ideal travel time = 55.365h, distance = 10630km, speed = 192km/h, flight range = 25450km, load capacity = 62953kg
+633) Train: ideal travel time = 54.992h, distance = 6819km, speed = 124km/h, number of wagons = 18
+634) Ship: ideal travel time = 54.968h, distance = 5112km, speed = 93km/h, displacement = 549579326kg, type = Type.LINER 
+635) Train: ideal travel time = 54.812h, distance = 7564km, speed = 138km/h, number of wagons = 72
+636) Ship: ideal travel time = 54.761h, distance = 10788km, speed = 197km/h, displacement = 161339408kg, type = Type.TANKER 
+637) Train: ideal travel time = 54.753h, distance = 9089km, speed = 166km/h, number of wagons = 41
+638) Airplane: ideal travel time = 54.5h, distance = 10791km, speed = 198km/h, flight range = 31005km, load capacity = 28722kg
+639) Ship: ideal travel time = 54.388h, distance = 6581km, speed = 121km/h, displacement = 430520821kg, type = Type.TUG 
+640) Airplane: ideal travel time = 54.255h, distance = 10200km, speed = 188km/h, flight range = 8276km, load capacity = 84422kg
+641) Ship: ideal travel time = 54.249h, distance = 9819km, speed = 181km/h, displacement = 373613961kg, type = Type.TANKER 
+642) Airplane: ideal travel time = 54.168h, distance = 10346km, speed = 191km/h, flight range = 27003km, load capacity = 6875kg
+643) Ship: ideal travel time = 54.151h, distance = 8231km, speed = 152km/h, displacement = 553183880kg, type = Type.TUG 
+644) Airplane: ideal travel time = 54.114h, distance = 8550km, speed = 158km/h, flight range = 24542km, load capacity = 125369kg
+645) Ship: ideal travel time = 54.111h, distance = 4383km, speed = 81km/h, displacement = 149835668kg, type = Type.TUG 
+646) Airplane: ideal travel time = 54.016h, distance = 9939km, speed = 184km/h, flight range = 13881km, load capacity = 12219kg
+647) Airplane: ideal travel time = 53.496h, distance = 6473km, speed = 121km/h, flight range = 6414km, load capacity = 39738kg
+648) Ship: ideal travel time = 53.376h, distance = 7526km, speed = 141km/h, displacement = 166168520kg, type = Type.TUG 
+649) Train: ideal travel time = 53.144h, distance = 7759km, speed = 146km/h, number of wagons = 32
+650) Airplane: ideal travel time = 53.124h, distance = 9881km, speed = 186km/h, flight range = 38505km, load capacity = 29827kg
+651) Airplane: ideal travel time = 53.103h, distance = 8231km, speed = 155km/h, flight range = 27604km, load capacity = 50051kg
+652) Airplane: ideal travel time = 53.048h, distance = 6578km, speed = 124km/h, flight range = 31337km, load capacity = 40457kg
+653) Train: ideal travel time = 52.969h, distance = 10382km, speed = 196km/h, number of wagons = 60
+654) Train: ideal travel time = 52.961h, distance = 4025km, speed = 76km/h, number of wagons = 12
+655) Airplane: ideal travel time = 52.919h, distance = 6509km, speed = 123km/h, flight range = 32089km, load capacity = 114683kg
+656) Ship: ideal travel time = 52.898h, distance = 8305km, speed = 157km/h, displacement = 521879412kg, type = Type.TUG 
+657) Ship: ideal travel time = 52.574h, distance = 9253km, speed = 176km/h, displacement = 316321854kg, type = Type.LINER 
+658) Airplane: ideal travel time = 52.253h, distance = 5173km, speed = 99km/h, flight range = 36146km, load capacity = 84297kg
+659) Ship: ideal travel time = 52.07h, distance = 5207km, speed = 100km/h, displacement = 511293596kg, type = Type.TANKER 
+660) Ship: ideal travel time = 52.0h, distance = 9516km, speed = 183km/h, displacement = 443462193kg, type = Type.TUG 
+661) Train: ideal travel time = 51.993h, distance = 7851km, speed = 151km/h, number of wagons = 42
+662) Ship: ideal travel time = 51.855h, distance = 6067km, speed = 117km/h, displacement = 237503155kg, type = Type.TANKER 
+663) Train: ideal travel time = 51.758h, distance = 8126km, speed = 157km/h, number of wagons = 4
+664) Airplane: ideal travel time = 51.496h, distance = 6952km, speed = 135km/h, flight range = 15260km, load capacity = 9229kg
+665) Ship: ideal travel time = 51.321h, distance = 4311km, speed = 84km/h, displacement = 490869112kg, type = Type.TANKER 
+666) Ship: ideal travel time = 51.07h, distance = 10163km, speed = 199km/h, displacement = 520807489kg, type = Type.TANKER 
+667) Airplane: ideal travel time = 51.031h, distance = 6685km, speed = 131km/h, flight range = 9230km, load capacity = 1002kg
+668) Airplane: ideal travel time = 50.551h, distance = 9453km, speed = 187km/h, flight range = 27546km, load capacity = 119485kg
+669) Train: ideal travel time = 50.458h, distance = 8477km, speed = 168km/h, number of wagons = 24
+670) Train: ideal travel time = 50.235h, distance = 4270km, speed = 85km/h, number of wagons = 57
+671) Train: ideal travel time = 50.187h, distance = 7528km, speed = 150km/h, number of wagons = 18
+672) Airplane: ideal travel time = 49.703h, distance = 7356km, speed = 148km/h, flight range = 22105km, load capacity = 107539kg
+673) Airplane: ideal travel time = 49.66h, distance = 5264km, speed = 106km/h, flight range = 13029km, load capacity = 122378kg
+674) Ship: ideal travel time = 49.476h, distance = 4057km, speed = 82km/h, displacement = 459874061kg, type = Type.TUG 
+675) Airplane: ideal travel time = 49.438h, distance = 8009km, speed = 162km/h, flight range = 16672km, load capacity = 103337kg
+676) Airplane: ideal travel time = 49.36h, distance = 9872km, speed = 200km/h, flight range = 15086km, load capacity = 40807kg
+677) Ship: ideal travel time = 49.041h, distance = 9563km, speed = 195km/h, displacement = 165200528kg, type = Type.TANKER 
+678) Airplane: ideal travel time = 48.94h, distance = 8173km, speed = 167km/h, flight range = 30637km, load capacity = 1041kg
+679) Train: ideal travel time = 48.737h, distance = 5556km, speed = 114km/h, number of wagons = 18
+680) Train: ideal travel time = 48.6h, distance = 5346km, speed = 110km/h, number of wagons = 6
+681) Airplane: ideal travel time = 48.138h, distance = 6643km, speed = 138km/h, flight range = 35532km, load capacity = 145580kg
+682) Train: ideal travel time = 47.78h, distance = 6307km, speed = 132km/h, number of wagons = 68
+683) Train: ideal travel time = 47.703h, distance = 7871km, speed = 165km/h, number of wagons = 60
+684) Train: ideal travel time = 47.665h, distance = 9533km, speed = 200km/h, number of wagons = 36
+685) Airplane: ideal travel time = 47.318h, distance = 6246km, speed = 132km/h, flight range = 32085km, load capacity = 66957kg
+686) Airplane: ideal travel time = 47.296h, distance = 5912km, speed = 125km/h, flight range = 108km, load capacity = 54321kg
+687) Train: ideal travel time = 47.04h, distance = 9314km, speed = 198km/h, number of wagons = 53
+688) Airplane: ideal travel time = 46.905h, distance = 9381km, speed = 200km/h, flight range = 21008km, load capacity = 32379kg
+689) Airplane: ideal travel time = 46.851h, distance = 4076km, speed = 87km/h, flight range = 2057km, load capacity = 138574kg
+690) Train: ideal travel time = 46.664h, distance = 6813km, speed = 146km/h, number of wagons = 51
+691) Train: ideal travel time = 46.366h, distance = 8624km, speed = 186km/h, number of wagons = 30
+692) Airplane: ideal travel time = 46.338h, distance = 6580km, speed = 142km/h, flight range = 6299km, load capacity = 141647kg
+693) Airplane: ideal travel time = 45.965h, distance = 6481km, speed = 141km/h, flight range = 31651km, load capacity = 55919kg
+694) Train: ideal travel time = 45.679h, distance = 5984km, speed = 131km/h, number of wagons = 37
+695) Train: ideal travel time = 45.364h, distance = 4854km, speed = 107km/h, number of wagons = 35
+696) Airplane: ideal travel time = 45.335h, distance = 8795km, speed = 194km/h, flight range = 12316km, load capacity = 98187kg
+697) Train: ideal travel time = 45.048h, distance = 7568km, speed = 168km/h, number of wagons = 15
+698) Airplane: ideal travel time = 44.351h, distance = 3282km, speed = 74km/h, flight range = 7987km, load capacity = 106474kg
+699) Train: ideal travel time = 44.089h, distance = 5467km, speed = 124km/h, number of wagons = 61
+700) Train: ideal travel time = 43.945h, distance = 8042km, speed = 183km/h, number of wagons = 75
+701) Airplane: ideal travel time = 43.878h, distance = 5748km, speed = 131km/h, flight range = 32805km, load capacity = 51193kg
+702) Ship: ideal travel time = 43.852h, distance = 7104km, speed = 162km/h, displacement = 65025784kg, type = Type.TUG 
+703) Airplane: ideal travel time = 43.778h, distance = 8668km, speed = 198km/h, flight range = 29587km, load capacity = 29072kg
+704) Train: ideal travel time = 43.71h, distance = 6032km, speed = 138km/h, number of wagons = 63
+705) Ship: ideal travel time = 43.627h, distance = 6893km, speed = 158km/h, displacement = 337102977kg, type = Type.LINER 
+706) Ship: ideal travel time = 43.611h, distance = 6847km, speed = 157km/h, displacement = 140409844kg, type = Type.LINER 
+707) Airplane: ideal travel time = 43.575h, distance = 8105km, speed = 186km/h, flight range = 5912km, load capacity = 66278kg
+708) Train: ideal travel time = 43.41h, distance = 6989km, speed = 161km/h, number of wagons = 63
+709) Airplane: ideal travel time = 43.302h, distance = 3724km, speed = 86km/h, flight range = 34329km, load capacity = 109499kg
+710) Airplane: ideal travel time = 43.236h, distance = 3113km, speed = 72km/h, flight range = 5178km, load capacity = 22606kg
+711) Train: ideal travel time = 43.065h, distance = 3962km, speed = 92km/h, number of wagons = 51
+712) Ship: ideal travel time = 42.856h, distance = 4757km, speed = 111km/h, displacement = 382060864kg, type = Type.TUG 
+713) Airplane: ideal travel time = 42.792h, distance = 7403km, speed = 173km/h, flight range = 20969km, load capacity = 50270kg
+714) Ship: ideal travel time = 42.747h, distance = 6925km, speed = 162km/h, displacement = 273133323kg, type = Type.TUG 
+715) Train: ideal travel time = 42.589h, distance = 8177km, speed = 192km/h, number of wagons = 71
+716) Train: ideal travel time = 42.506h, distance = 6886km, speed = 162km/h, number of wagons = 4
+717) Train: ideal travel time = 42.282h, distance = 8245km, speed = 195km/h, number of wagons = 60
+718) Ship: ideal travel time = 42.253h, distance = 7183km, speed = 170km/h, displacement = 242011372kg, type = Type.LINER 
+719) Ship: ideal travel time = 42.193h, distance = 5021km, speed = 119km/h, displacement = 145755340kg, type = Type.TUG 
+720) Train: ideal travel time = 41.886h, distance = 6953km, speed = 166km/h, number of wagons = 54
+721) Train: ideal travel time = 41.72h, distance = 7009km, speed = 168km/h, number of wagons = 53
+722) Airplane: ideal travel time = 41.704h, distance = 4504km, speed = 108km/h, flight range = 2692km, load capacity = 61033kg
+723) Airplane: ideal travel time = 41.375h, distance = 5296km, speed = 128km/h, flight range = 5631km, load capacity = 91296kg
+724) Ship: ideal travel time = 41.184h, distance = 7166km, speed = 174km/h, displacement = 275059517kg, type = Type.TUG 
+725) Airplane: ideal travel time = 40.951h, distance = 5897km, speed = 144km/h, flight range = 36879km, load capacity = 144199kg
+726) Ship: ideal travel time = 40.921h, distance = 7734km, speed = 189km/h, displacement = 186701349kg, type = Type.LINER 
+727) Airplane: ideal travel time = 40.912h, distance = 5564km, speed = 136km/h, flight range = 27070km, load capacity = 90553kg
+728) Ship: ideal travel time = 40.316h, distance = 6128km, speed = 152km/h, displacement = 100560619kg, type = Type.TANKER 
+729) Train: ideal travel time = 40.24h, distance = 7042km, speed = 175km/h, number of wagons = 64
+730) Ship: ideal travel time = 40.125h, distance = 2889km, speed = 72km/h, displacement = 535688851kg, type = Type.TUG 
+731) Ship: ideal travel time = 39.873h, distance = 5024km, speed = 126km/h, displacement = 447369408kg, type = Type.LINER 
+732) Train: ideal travel time = 39.457h, distance = 3630km, speed = 92km/h, number of wagons = 12
+733) Ship: ideal travel time = 39.443h, distance = 7573km, speed = 192km/h, displacement = 178631300kg, type = Type.TUG 
+734) Airplane: ideal travel time = 39.436h, distance = 7059km, speed = 179km/h, flight range = 2283km, load capacity = 35063kg
+735) Train: ideal travel time = 39.373h, distance = 3268km, speed = 83km/h, number of wagons = 7
+736) Train: ideal travel time = 39.197h, distance = 7761km, speed = 198km/h, number of wagons = 17
+737) Train: ideal travel time = 39.156h, distance = 5756km, speed = 147km/h, number of wagons = 49
+738) Ship: ideal travel time = 38.975h, distance = 4716km, speed = 121km/h, displacement = 451666837kg, type = Type.TUG 
+739) Ship: ideal travel time = 38.808h, distance = 6054km, speed = 156km/h, displacement = 544643329kg, type = Type.LINER 
+740) Ship: ideal travel time = 38.5h, distance = 4851km, speed = 126km/h, displacement = 353037005kg, type = Type.TUG 
+741) Ship: ideal travel time = 38.455h, distance = 6845km, speed = 178km/h, displacement = 61475344kg, type = Type.TUG 
+742) Airplane: ideal travel time = 38.413h, distance = 6415km, speed = 167km/h, flight range = 31541km, load capacity = 41080kg
+743) Ship: ideal travel time = 38.143h, distance = 2670km, speed = 70km/h, displacement = 153739526kg, type = Type.LINER 
+744) Train: ideal travel time = 37.992h, distance = 4711km, speed = 124km/h, number of wagons = 18
+745) Train: ideal travel time = 37.902h, distance = 4245km, speed = 112km/h, number of wagons = 21
+746) Train: ideal travel time = 37.247h, distance = 3315km, speed = 89km/h, number of wagons = 37
+747) Train: ideal travel time = 37.149h, distance = 3232km, speed = 87km/h, number of wagons = 26
+748) Train: ideal travel time = 36.94h, distance = 6206km, speed = 168km/h, number of wagons = 24
+749) Train: ideal travel time = 36.868h, distance = 7005km, speed = 190km/h, number of wagons = 67
+750) Train: ideal travel time = 36.817h, distance = 3829km, speed = 104km/h, number of wagons = 51
+751) Train: ideal travel time = 36.658h, distance = 5792km, speed = 158km/h, number of wagons = 12
+752) Airplane: ideal travel time = 36.634h, distance = 4909km, speed = 134km/h, flight range = 2789km, load capacity = 44560kg
+753) Ship: ideal travel time = 36.411h, distance = 6918km, speed = 190km/h, displacement = 259053288kg, type = Type.LINER 
+754) Ship: ideal travel time = 35.86h, distance = 3837km, speed = 107km/h, displacement = 418818030kg, type = Type.LINER 
+755) Airplane: ideal travel time = 35.313h, distance = 4626km, speed = 131km/h, flight range = 24236km, load capacity = 37732kg
+756) Ship: ideal travel time = 35.168h, distance = 6506km, speed = 185km/h, displacement = 191731712kg, type = Type.TUG 
+757) Train: ideal travel time = 35.02h, distance = 5148km, speed = 147km/h, number of wagons = 64
+758) Train: ideal travel time = 34.942h, distance = 5381km, speed = 154km/h, number of wagons = 65
+759) Airplane: ideal travel time = 34.856h, distance = 3869km, speed = 111km/h, flight range = 34993km, load capacity = 54707kg
+760) Airplane: ideal travel time = 34.785h, distance = 6157km, speed = 177km/h, flight range = 28831km, load capacity = 93218kg
+761) Ship: ideal travel time = 34.585h, distance = 4496km, speed = 130km/h, displacement = 545209905kg, type = Type.LINER 
+762) Ship: ideal travel time = 34.558h, distance = 4769km, speed = 138km/h, displacement = 364440408kg, type = Type.TANKER 
+763) Train: ideal travel time = 34.439h, distance = 6819km, speed = 198km/h, number of wagons = 8
+764) Train: ideal travel time = 34.269h, distance = 6237km, speed = 182km/h, number of wagons = 66
+765) Ship: ideal travel time = 34.029h, distance = 4696km, speed = 138km/h, displacement = 137972447kg, type = Type.LINER 
+766) Ship: ideal travel time = 34.028h, distance = 6023km, speed = 177km/h, displacement = 60408158kg, type = Type.TANKER 
+767) Train: ideal travel time = 33.872h, distance = 5555km, speed = 164km/h, number of wagons = 34
+768) Train: ideal travel time = 33.857h, distance = 3318km, speed = 98km/h, number of wagons = 3
+769) Train: ideal travel time = 33.744h, distance = 6074km, speed = 180km/h, number of wagons = 22
+770) Airplane: ideal travel time = 33.557h, distance = 6510km, speed = 194km/h, flight range = 7433km, load capacity = 120677kg
+771) Ship: ideal travel time = 33.481h, distance = 3549km, speed = 106km/h, displacement = 120960315kg, type = Type.LINER 
+772) Train: ideal travel time = 33.344h, distance = 4368km, speed = 131km/h, number of wagons = 73
+773) Ship: ideal travel time = 33.172h, distance = 2886km, speed = 87km/h, displacement = 223456663kg, type = Type.TANKER 
+774) Airplane: ideal travel time = 32.778h, distance = 2655km, speed = 81km/h, flight range = 25620km, load capacity = 8777kg
+775) Ship: ideal travel time = 32.5h, distance = 5850km, speed = 180km/h, displacement = 14978731kg, type = Type.TANKER 
+776) Train: ideal travel time = 32.158h, distance = 5692km, speed = 177km/h, number of wagons = 2
+777) Ship: ideal travel time = 31.829h, distance = 5952km, speed = 187km/h, displacement = 279450984kg, type = Type.TANKER 
+778) Ship: ideal travel time = 31.734h, distance = 4887km, speed = 154km/h, displacement = 82802935kg, type = Type.TUG 
+779) Train: ideal travel time = 31.676h, distance = 5860km, speed = 185km/h, number of wagons = 66
+780) Train: ideal travel time = 31.492h, distance = 3716km, speed = 118km/h, number of wagons = 10
+781) Airplane: ideal travel time = 31.32h, distance = 5575km, speed = 178km/h, flight range = 24161km, load capacity = 141379kg
+782) Train: ideal travel time = 31.217h, distance = 4308km, speed = 138km/h, number of wagons = 49
+783) Ship: ideal travel time = 31.138h, distance = 5885km, speed = 189km/h, displacement = 41551660kg, type = Type.TUG 
+784) Train: ideal travel time = 30.98h, distance = 6103km, speed = 197km/h, number of wagons = 39
+785) Airplane: ideal travel time = 30.957h, distance = 5727km, speed = 185km/h, flight range = 1935km, load capacity = 11690kg
+786) Airplane: ideal travel time = 30.873h, distance = 5094km, speed = 165km/h, flight range = 7857km, load capacity = 41064kg
+787) Ship: ideal travel time = 30.783h, distance = 3694km, speed = 120km/h, displacement = 170186068kg, type = Type.TANKER 
+788) Ship: ideal travel time = 30.703h, distance = 5373km, speed = 175km/h, displacement = 281874657kg, type = Type.LINER 
+789) Ship: ideal travel time = 30.471h, distance = 3687km, speed = 121km/h, displacement = 249193317kg, type = Type.LINER 
+790) Train: ideal travel time = 30.449h, distance = 4202km, speed = 138km/h, number of wagons = 20
+791) Ship: ideal travel time = 30.348h, distance = 4977km, speed = 164km/h, displacement = 287216022kg, type = Type.TANKER 
+792) Ship: ideal travel time = 30.281h, distance = 5935km, speed = 196km/h, displacement = 274756797kg, type = Type.TANKER 
+793) Train: ideal travel time = 30.271h, distance = 6024km, speed = 199km/h, number of wagons = 10
+794) Airplane: ideal travel time = 30.2h, distance = 4983km, speed = 165km/h, flight range = 34868km, load capacity = 28755kg
+795) Ship: ideal travel time = 30.17h, distance = 5672km, speed = 188km/h, displacement = 553845541kg, type = Type.TANKER 
+796) Ship: ideal travel time = 30.064h, distance = 5141km, speed = 171km/h, displacement = 325889923kg, type = Type.TUG 
+797) Ship: ideal travel time = 30.022h, distance = 4143km, speed = 138km/h, displacement = 229703634kg, type = Type.TUG 
+798) Train: ideal travel time = 29.394h, distance = 4997km, speed = 170km/h, number of wagons = 50
+799) Train: ideal travel time = 29.078h, distance = 2966km, speed = 102km/h, number of wagons = 72
+800) Airplane: ideal travel time = 28.743h, distance = 4369km, speed = 152km/h, flight range = 36538km, load capacity = 104115kg
+801) Ship: ideal travel time = 28.648h, distance = 3495km, speed = 122km/h, displacement = 255984484kg, type = Type.TANKER 
+802) Train: ideal travel time = 28.648h, distance = 3495km, speed = 122km/h, number of wagons = 45
+803) Ship: ideal travel time = 28.624h, distance = 5181km, speed = 181km/h, displacement = 459701498kg, type = Type.TANKER 
+804) Ship: ideal travel time = 28.611h, distance = 5007km, speed = 175km/h, displacement = 299326362kg, type = Type.LINER 
+805) Train: ideal travel time = 28.557h, distance = 3484km, speed = 122km/h, number of wagons = 31
+806) Airplane: ideal travel time = 28.203h, distance = 3610km, speed = 128km/h, flight range = 20911km, load capacity = 55715kg
+807) Ship: ideal travel time = 28.0h, distance = 4312km, speed = 154km/h, displacement = 1600058kg, type = Type.TUG 
+808) Ship: ideal travel time = 27.611h, distance = 5246km, speed = 190km/h, displacement = 79368932kg, type = Type.LINER 
+809) Airplane: ideal travel time = 27.602h, distance = 2567km, speed = 93km/h, flight range = 37959km, load capacity = 52465kg
+810) Airplane: ideal travel time = 27.58h, distance = 4468km, speed = 162km/h, flight range = 29079km, load capacity = 49613kg
+811) Airplane: ideal travel time = 27.22h, distance = 5199km, speed = 191km/h, flight range = 23928km, load capacity = 119578kg
+812) Train: ideal travel time = 27.21h, distance = 2857km, speed = 105km/h, number of wagons = 23
+813) Airplane: ideal travel time = 26.962h, distance = 3532km, speed = 131km/h, flight range = 17557km, load capacity = 18701kg
+814) Airplane: ideal travel time = 26.896h, distance = 5191km, speed = 193km/h, flight range = 38638km, load capacity = 136505kg
+815) Ship: ideal travel time = 26.646h, distance = 3464km, speed = 130km/h, displacement = 158947328kg, type = Type.LINER 
+816) Airplane: ideal travel time = 26.497h, distance = 4107km, speed = 155km/h, flight range = 39102km, load capacity = 86442kg
+817) Ship: ideal travel time = 26.317h, distance = 3737km, speed = 142km/h, displacement = 28707927kg, type = Type.TUG 
+818) Train: ideal travel time = 26.266h, distance = 2075km, speed = 79km/h, number of wagons = 47
+819) Ship: ideal travel time = 26.258h, distance = 2337km, speed = 89km/h, displacement = 502690799kg, type = Type.TUG 
+820) Train: ideal travel time = 26.164h, distance = 4788km, speed = 183km/h, number of wagons = 64
+821) Ship: ideal travel time = 26.156h, distance = 4865km, speed = 186km/h, displacement = 550063224kg, type = Type.TUG 
+822) Ship: ideal travel time = 26.058h, distance = 4039km, speed = 155km/h, displacement = 263043314kg, type = Type.TUG 
+823) Ship: ideal travel time = 26.031h, distance = 3332km, speed = 128km/h, displacement = 223956599kg, type = Type.LINER 
+824) Train: ideal travel time = 25.838h, distance = 3824km, speed = 148km/h, number of wagons = 29
+825) Train: ideal travel time = 25.717h, distance = 4449km, speed = 173km/h, number of wagons = 38
+826) Train: ideal travel time = 25.715h, distance = 3163km, speed = 123km/h, number of wagons = 3
+827) Airplane: ideal travel time = 25.562h, distance = 2863km, speed = 112km/h, flight range = 37234km, load capacity = 12140kg
+828) Train: ideal travel time = 25.531h, distance = 4953km, speed = 194km/h, number of wagons = 11
+829) Airplane: ideal travel time = 25.512h, distance = 3189km, speed = 125km/h, flight range = 7686km, load capacity = 62987kg
+830) Ship: ideal travel time = 25.376h, distance = 4999km, speed = 197km/h, displacement = 549038130kg, type = Type.LINER 
+831) Train: ideal travel time = 25.301h, distance = 4883km, speed = 193km/h, number of wagons = 28
+832) Train: ideal travel time = 25.088h, distance = 4265km, speed = 170km/h, number of wagons = 72
+833) Train: ideal travel time = 25.083h, distance = 4214km, speed = 168km/h, number of wagons = 3
+834) Airplane: ideal travel time = 24.901h, distance = 4034km, speed = 162km/h, flight range = 33481km, load capacity = 130253kg
+835) Train: ideal travel time = 24.891h, distance = 4107km, speed = 165km/h, number of wagons = 24
+836) Airplane: ideal travel time = 24.6h, distance = 2706km, speed = 110km/h, flight range = 24892km, load capacity = 2984kg
+837) Train: ideal travel time = 24.266h, distance = 2281km, speed = 94km/h, number of wagons = 25
+838) Ship: ideal travel time = 24.201h, distance = 4090km, speed = 169km/h, displacement = 486559256kg, type = Type.TANKER 
+839) Airplane: ideal travel time = 23.986h, distance = 1775km, speed = 74km/h, flight range = 5949km, load capacity = 44725kg
+840) Ship: ideal travel time = 23.969h, distance = 4602km, speed = 192km/h, displacement = 426365206kg, type = Type.TANKER 
+841) Ship: ideal travel time = 23.919h, distance = 2966km, speed = 124km/h, displacement = 444293315kg, type = Type.TUG 
+842) Airplane: ideal travel time = 23.626h, distance = 4111km, speed = 174km/h, flight range = 14552km, load capacity = 6198kg
+843) Train: ideal travel time = 23.479h, distance = 2841km, speed = 121km/h, number of wagons = 28
+844) Airplane: ideal travel time = 23.446h, distance = 2837km, speed = 121km/h, flight range = 13750km, load capacity = 42795kg
+845) Airplane: ideal travel time = 23.323h, distance = 3685km, speed = 158km/h, flight range = 15587km, load capacity = 55844kg
+846) Train: ideal travel time = 23.306h, distance = 3659km, speed = 157km/h, number of wagons = 29
+847) Ship: ideal travel time = 23.179h, distance = 3500km, speed = 151km/h, displacement = 523367695kg, type = Type.TUG 
+848) Airplane: ideal travel time = 23.125h, distance = 2590km, speed = 112km/h, flight range = 17056km, load capacity = 14574kg
+849) Ship: ideal travel time = 23.107h, distance = 3882km, speed = 168km/h, displacement = 61518580kg, type = Type.TANKER 
+850) Airplane: ideal travel time = 22.961h, distance = 1768km, speed = 77km/h, flight range = 19327km, load capacity = 98404kg
+851) Train: ideal travel time = 22.82h, distance = 3674km, speed = 161km/h, number of wagons = 13
+852) Ship: ideal travel time = 22.565h, distance = 2076km, speed = 92km/h, displacement = 520890799kg, type = Type.TANKER 
+853) Train: ideal travel time = 22.558h, distance = 3880km, speed = 172km/h, number of wagons = 10
+854) Airplane: ideal travel time = 22.293h, distance = 2965km, speed = 133km/h, flight range = 507km, load capacity = 30729kg
+855) Train: ideal travel time = 22.059h, distance = 4103km, speed = 186km/h, number of wagons = 63
+856) Train: ideal travel time = 22.0h, distance = 3806km, speed = 173km/h, number of wagons = 66
+857) Ship: ideal travel time = 21.846h, distance = 2556km, speed = 117km/h, displacement = 19039709kg, type = Type.TUG 
+858) Train: ideal travel time = 21.529h, distance = 1507km, speed = 70km/h, number of wagons = 20
+859) Airplane: ideal travel time = 21.518h, distance = 2453km, speed = 114km/h, flight range = 22411km, load capacity = 109496kg
+860) Airplane: ideal travel time = 21.5h, distance = 4214km, speed = 196km/h, flight range = 29832km, load capacity = 114721kg
+861) Ship: ideal travel time = 21.241h, distance = 3356km, speed = 158km/h, displacement = 189212087kg, type = Type.TANKER 
+862) Ship: ideal travel time = 21.134h, distance = 3001km, speed = 142km/h, displacement = 528785595kg, type = Type.TUG 
+863) Ship: ideal travel time = 21.061h, distance = 4149km, speed = 197km/h, displacement = 5654621kg, type = Type.TANKER 
+864) Airplane: ideal travel time = 20.966h, distance = 3648km, speed = 174km/h, flight range = 37793km, load capacity = 140423kg
+865) Airplane: ideal travel time = 20.739h, distance = 1825km, speed = 88km/h, flight range = 39374km, load capacity = 8636kg
+866) Ship: ideal travel time = 20.667h, distance = 2046km, speed = 99km/h, displacement = 374981151kg, type = Type.TUG 
+867) Train: ideal travel time = 20.466h, distance = 3561km, speed = 174km/h, number of wagons = 19
+868) Train: ideal travel time = 20.128h, distance = 2355km, speed = 117km/h, number of wagons = 52
+869) Airplane: ideal travel time = 19.968h, distance = 3734km, speed = 187km/h, flight range = 19528km, load capacity = 71963kg
+870) Train: ideal travel time = 19.946h, distance = 2573km, speed = 129km/h, number of wagons = 61
+871) Ship: ideal travel time = 19.87h, distance = 1987km, speed = 100km/h, displacement = 413279858kg, type = Type.TUG 
+872) Airplane: ideal travel time = 19.74h, distance = 3869km, speed = 196km/h, flight range = 19472km, load capacity = 122191kg
+873) Airplane: ideal travel time = 19.64h, distance = 3221km, speed = 164km/h, flight range = 26270km, load capacity = 38746kg
+874) Airplane: ideal travel time = 19.547h, distance = 2678km, speed = 137km/h, flight range = 23386km, load capacity = 70477kg
+875) Train: ideal travel time = 19.5h, distance = 3549km, speed = 182km/h, number of wagons = 40
+876) Train: ideal travel time = 19.396h, distance = 3724km, speed = 192km/h, number of wagons = 50
+877) Airplane: ideal travel time = 19.22h, distance = 2268km, speed = 118km/h, flight range = 2590km, load capacity = 26919kg
+878) Train: ideal travel time = 19.183h, distance = 2513km, speed = 131km/h, number of wagons = 72
+879) Ship: ideal travel time = 19.113h, distance = 3727km, speed = 195km/h, displacement = 5037739kg, type = Type.TUG 
+880) Airplane: ideal travel time = 19.106h, distance = 3057km, speed = 160km/h, flight range = 4717km, load capacity = 6805kg
+881) Train: ideal travel time = 18.944h, distance = 3732km, speed = 197km/h, number of wagons = 11
+882) Train: ideal travel time = 18.929h, distance = 2669km, speed = 141km/h, number of wagons = 35
+883) Train: ideal travel time = 18.773h, distance = 2065km, speed = 110km/h, number of wagons = 48
+884) Airplane: ideal travel time = 18.615h, distance = 3723km, speed = 200km/h, flight range = 25929km, load capacity = 120109kg
+885) Ship: ideal travel time = 18.582h, distance = 2044km, speed = 110km/h, displacement = 146930564kg, type = Type.LINER 
+886) Ship: ideal travel time = 18.315h, distance = 1630km, speed = 89km/h, displacement = 72960889kg, type = Type.TUG 
+887) Train: ideal travel time = 18.19h, distance = 1819km, speed = 100km/h, number of wagons = 44
+888) Airplane: ideal travel time = 17.721h, distance = 3172km, speed = 179km/h, flight range = 20092km, load capacity = 11327kg
+889) Train: ideal travel time = 17.504h, distance = 2433km, speed = 139km/h, number of wagons = 66
+890) Ship: ideal travel time = 17.251h, distance = 2950km, speed = 171km/h, displacement = 482016346kg, type = Type.LINER 
+891) Train: ideal travel time = 17.243h, distance = 1207km, speed = 70km/h, number of wagons = 27
+892) Train: ideal travel time = 17.163h, distance = 2952km, speed = 172km/h, number of wagons = 43
+893) Ship: ideal travel time = 17.103h, distance = 2668km, speed = 156km/h, displacement = 102915757kg, type = Type.TANKER 
+894) Train: ideal travel time = 16.956h, distance = 2679km, speed = 158km/h, number of wagons = 43
+895) Airplane: ideal travel time = 16.933h, distance = 2032km, speed = 120km/h, flight range = 26220km, load capacity = 49657kg
+896) Train: ideal travel time = 16.902h, distance = 2772km, speed = 164km/h, number of wagons = 55
+897) Train: ideal travel time = 16.856h, distance = 2933km, speed = 174km/h, number of wagons = 36
+898) Train: ideal travel time = 16.306h, distance = 2772km, speed = 170km/h, number of wagons = 33
+899) Airplane: ideal travel time = 15.857h, distance = 1554km, speed = 98km/h, flight range = 10654km, load capacity = 41591kg
+900) Train: ideal travel time = 15.676h, distance = 2947km, speed = 188km/h, number of wagons = 62
+901) Ship: ideal travel time = 15.529h, distance = 2966km, speed = 191km/h, displacement = 440393382kg, type = Type.LINER 
+902) Airplane: ideal travel time = 15.527h, distance = 2624km, speed = 169km/h, flight range = 9581km, load capacity = 22383kg
+903) Airplane: ideal travel time = 15.436h, distance = 1806km, speed = 117km/h, flight range = 24470km, load capacity = 87859kg
+904) Ship: ideal travel time = 15.43h, distance = 1543km, speed = 100km/h, displacement = 225558397kg, type = Type.TUG 
+905) Train: ideal travel time = 15.358h, distance = 1459km, speed = 95km/h, number of wagons = 62
+906) Airplane: ideal travel time = 14.777h, distance = 1522km, speed = 103km/h, flight range = 31927km, load capacity = 118408kg
+907) Ship: ideal travel time = 14.675h, distance = 2348km, speed = 160km/h, displacement = 381988799kg, type = Type.TUG 
+908) Airplane: ideal travel time = 14.653h, distance = 2828km, speed = 193km/h, flight range = 35134km, load capacity = 123922kg
+909) Ship: ideal travel time = 14.593h, distance = 2364km, speed = 162km/h, displacement = 181865759kg, type = Type.LINER 
+910) Ship: ideal travel time = 14.435h, distance = 2324km, speed = 161km/h, displacement = 395272891kg, type = Type.LINER 
+911) Ship: ideal travel time = 14.211h, distance = 2629km, speed = 185km/h, displacement = 330586861kg, type = Type.TUG 
+912) Ship: ideal travel time = 14.192h, distance = 1774km, speed = 125km/h, displacement = 170562393kg, type = Type.LINER 
+913) Train: ideal travel time = 14.179h, distance = 2382km, speed = 168km/h, number of wagons = 58
+914) Ship: ideal travel time = 14.012h, distance = 2340km, speed = 167km/h, displacement = 30962993kg, type = Type.TUG 
+915) Airplane: ideal travel time = 13.988h, distance = 2350km, speed = 168km/h, flight range = 39475km, load capacity = 117810kg
+916) Train: ideal travel time = 13.672h, distance = 1668km, speed = 122km/h, number of wagons = 46
+917) Ship: ideal travel time = 13.534h, distance = 1976km, speed = 146km/h, displacement = 479991321kg, type = Type.LINER 
+918) Ship: ideal travel time = 13.33h, distance = 1333km, speed = 100km/h, displacement = 538409278kg, type = Type.TUG 
+919) Train: ideal travel time = 13.068h, distance = 1934km, speed = 148km/h, number of wagons = 59
+920) Train: ideal travel time = 12.837h, distance = 1656km, speed = 129km/h, number of wagons = 19
+921) Train: ideal travel time = 12.716h, distance = 1297km, speed = 102km/h, number of wagons = 45
+922) Train: ideal travel time = 12.653h, distance = 2518km, speed = 199km/h, number of wagons = 58
+923) Train: ideal travel time = 12.441h, distance = 1157km, speed = 93km/h, number of wagons = 7
+924) Ship: ideal travel time = 12.324h, distance = 1676km, speed = 136km/h, displacement = 90157141kg, type = Type.LINER 
+925) Train: ideal travel time = 11.816h, distance = 1867km, speed = 158km/h, number of wagons = 28
+926) Train: ideal travel time = 11.807h, distance = 1039km, speed = 88km/h, number of wagons = 0
+927) Ship: ideal travel time = 11.774h, distance = 1872km, speed = 159km/h, displacement = 322945414kg, type = Type.TUG 
+928) Ship: ideal travel time = 11.665h, distance = 2018km, speed = 173km/h, displacement = 357904563kg, type = Type.TUG 
+929) Train: ideal travel time = 11.635h, distance = 1594km, speed = 137km/h, number of wagons = 59
+930) Train: ideal travel time = 11.6h, distance = 1450km, speed = 125km/h, number of wagons = 21
+931) Airplane: ideal travel time = 11.403h, distance = 2007km, speed = 176km/h, flight range = 37938km, load capacity = 71364kg
+932) Ship: ideal travel time = 11.403h, distance = 1756km, speed = 154km/h, displacement = 512228424kg, type = Type.TANKER 
+933) Ship: ideal travel time = 11.392h, distance = 1800km, speed = 158km/h, displacement = 2580244kg, type = Type.TUG 
+934) Ship: ideal travel time = 11.311h, distance = 1493km, speed = 132km/h, displacement = 271926378kg, type = Type.TUG 
+935) Train: ideal travel time = 11.018h, distance = 1807km, speed = 164km/h, number of wagons = 0
+936) Airplane: ideal travel time = 11.012h, distance = 1839km, speed = 167km/h, flight range = 31987km, load capacity = 69594kg
+937) Airplane: ideal travel time = 10.903h, distance = 2028km, speed = 186km/h, flight range = 19830km, load capacity = 62878kg
+938) Train: ideal travel time = 10.689h, distance = 1582km, speed = 148km/h, number of wagons = 58
+939) Train: ideal travel time = 10.141h, distance = 933km, speed = 92km/h, number of wagons = 73
+940) Airplane: ideal travel time = 10.123h, distance = 1731km, speed = 171km/h, flight range = 15962km, load capacity = 119798kg
+941) Airplane: ideal travel time = 10.098h, distance = 929km, speed = 92km/h, flight range = 28843km, load capacity = 2081kg
+942) Airplane: ideal travel time = 10.047h, distance = 1708km, speed = 170km/h, flight range = 29436km, load capacity = 143623kg
+943) Airplane: ideal travel time = 10.04h, distance = 1506km, speed = 150km/h, flight range = 21470km, load capacity = 15201kg
+944) Train: ideal travel time = 9.714h, distance = 680km, speed = 70km/h, number of wagons = 10
+945) Airplane: ideal travel time = 9.304h, distance = 856km, speed = 92km/h, flight range = 23070km, load capacity = 50456kg
+946) Ship: ideal travel time = 8.929h, distance = 1009km, speed = 113km/h, displacement = 94429000kg, type = Type.LINER 
+947) Ship: ideal travel time = 8.817h, distance = 1111km, speed = 126km/h, displacement = 198228925kg, type = Type.TUG 
+948) Train: ideal travel time = 8.557h, distance = 1275km, speed = 149km/h, number of wagons = 0
+949) Ship: ideal travel time = 8.535h, distance = 1212km, speed = 142km/h, displacement = 328535198kg, type = Type.TANKER 
+950) Airplane: ideal travel time = 8.455h, distance = 1040km, speed = 123km/h, flight range = 13080km, load capacity = 71277kg
+951) Airplane: ideal travel time = 8.272h, distance = 1398km, speed = 169km/h, flight range = 3825km, load capacity = 60261kg
+952) Ship: ideal travel time = 8.025h, distance = 634km, speed = 79km/h, displacement = 552633168kg, type = Type.TUG 
+953) Airplane: ideal travel time = 7.545h, distance = 1343km, speed = 178km/h, flight range = 12502km, load capacity = 79217kg
+954) Airplane: ideal travel time = 7.323h, distance = 1384km, speed = 189km/h, flight range = 6105km, load capacity = 74151kg
+955) Train: ideal travel time = 7.321h, distance = 1413km, speed = 193km/h, number of wagons = 5
+956) Train: ideal travel time = 7.156h, distance = 780km, speed = 109km/h, number of wagons = 8
+957) Train: ideal travel time = 7.073h, distance = 870km, speed = 123km/h, number of wagons = 11
+958) Airplane: ideal travel time = 6.892h, distance = 896km, speed = 130km/h, flight range = 32473km, load capacity = 70106kg
+959) Train: ideal travel time = 6.491h, distance = 701km, speed = 108km/h, number of wagons = 47
+960) Ship: ideal travel time = 6.407h, distance = 788km, speed = 123km/h, displacement = 160047579kg, type = Type.LINER 
+961) Airplane: ideal travel time = 6.184h, distance = 1175km, speed = 190km/h, flight range = 19794km, load capacity = 128872kg
+962) Ship: ideal travel time = 6.055h, distance = 769km, speed = 127km/h, displacement = 533550917kg, type = Type.LINER 
+963) Train: ideal travel time = 5.564h, distance = 523km, speed = 94km/h, number of wagons = 44
+964) Train: ideal travel time = 5.18h, distance = 948km, speed = 183km/h, number of wagons = 25
+965) Train: ideal travel time = 5.033h, distance = 609km, speed = 121km/h, number of wagons = 27
+966) Train: ideal travel time = 4.922h, distance = 753km, speed = 153km/h, number of wagons = 60
+967) Airplane: ideal travel time = 4.593h, distance = 914km, speed = 199km/h, flight range = 1620km, load capacity = 53399kg
+968) Train: ideal travel time = 4.587h, distance = 821km, speed = 179km/h, number of wagons = 30
+969) Train: ideal travel time = 4.051h, distance = 794km, speed = 196km/h, number of wagons = 30
+970) Train: ideal travel time = 4.018h, distance = 675km, speed = 168km/h, number of wagons = 54
+971) Train: ideal travel time = 3.974h, distance = 771km, speed = 194km/h, number of wagons = 58
+972) Ship: ideal travel time = 3.369h, distance = 411km, speed = 122km/h, displacement = 199428171kg, type = Type.TANKER 
+973) Airplane: ideal travel time = 3.26h, distance = 313km, speed = 96km/h, flight range = 6553km, load capacity = 73971kg
+974) Ship: ideal travel time = 3.126h, distance = 297km, speed = 95km/h, displacement = 101874560kg, type = Type.TANKER 
+975) Train: ideal travel time = 3.077h, distance = 280km, speed = 91km/h, number of wagons = 60
+976) Airplane: ideal travel time = 2.885h, distance = 453km, speed = 157km/h, flight range = 5214km, load capacity = 7543kg
+977) Train: ideal travel time = 2.845h, distance = 532km, speed = 187km/h, number of wagons = 29
+978) Airplane: ideal travel time = 2.672h, distance = 481km, speed = 180km/h, flight range = 5375km, load capacity = 91187kg
+979) Airplane: ideal travel time = 2.532h, distance = 481km, speed = 190km/h, flight range = 8757km, load capacity = 37589kg
+980) Airplane: ideal travel time = 2.523h, distance = 439km, speed = 174km/h, flight range = 16241km, load capacity = 66336kg
+981) Ship: ideal travel time = 2.264h, distance = 274km, speed = 121km/h, displacement = 140716052kg, type = Type.LINER 
+982) Airplane: ideal travel time = 2.153h, distance = 295km, speed = 137km/h, flight range = 2856km, load capacity = 122300kg
+983) Airplane: ideal travel time = 2.118h, distance = 233km, speed = 110km/h, flight range = 24319km, load capacity = 29524kg
+984) Airplane: ideal travel time = 2.075h, distance = 303km, speed = 146km/h, flight range = 22423km, load capacity = 142389kg
+985) Train: ideal travel time = 1.564h, distance = 233km, speed = 149km/h, number of wagons = 13
+986) Train: ideal travel time = 1.544h, distance = 210km, speed = 136km/h, number of wagons = 24
+987) Airplane: ideal travel time = 1.471h, distance = 275km, speed = 187km/h, flight range = 15292km, load capacity = 51902kg
+988) Ship: ideal travel time = 1.317h, distance = 137km, speed = 104km/h, displacement = 275763879kg, type = Type.TUG 
+989) Airplane: ideal travel time = 1.302h, distance = 181km, speed = 139km/h, flight range = 9854km, load capacity = 20143kg
+990) Ship: ideal travel time = 0.872h, distance = 102km, speed = 117km/h, displacement = 545097498kg, type = Type.LINER 
+991) Airplane: ideal travel time = 0.778h, distance = 105km, speed = 135km/h, flight range = 27337km, load capacity = 31065kg
+992) Airplane: ideal travel time = 0.768h, distance = 146km, speed = 190km/h, flight range = 8889km, load capacity = 35507kg
+993) Train: ideal travel time = 0.71h, distance = 103km, speed = 145km/h, number of wagons = 26
+994) Train: ideal travel time = 0.708h, distance = 85km, speed = 120km/h, number of wagons = 40
+995) Train: ideal travel time = 0.235h, distance = 35km, speed = 149km/h, number of wagons = 23
+996) Ship: ideal travel time = 0.196h, distance = 19km, speed = 97km/h, displacement = 293768297kg, type = Type.LINER 
+997) Airplane: ideal travel time = 0.173h, distance = 23km, speed = 133km/h, flight range = 3798km, load capacity = 55019kg
+998) Airplane: ideal travel time = 0.135h, distance = 20km, speed = 148km/h, flight range = 7470km, load capacity = 131503kg
+999) Train: ideal travel time = 0.117h, distance = 22km, speed = 188km/h, number of wagons = 0
+1000) Train: ideal travel time = 0.0h, distance = 0km, speed = 189km/h, number of wagons = 67
+Time: 0.1440882000606507s
