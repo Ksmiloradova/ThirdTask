@@ -35,19 +35,19 @@ class Container:
 
     def Print(self):
         print("Container is store", len(self.store), "transports:")
-        i = 1
-        for shape in self.store:
-            print("{}) ".format(i))
-            shape.Print()
-            i = i + 1
+        #i = 1
+        #for transp in self.store:
+        #    print("{}) ".format(i))
+        #    transp.Print()
+        #    i = i + 1
         pass
 
     def Write(self, ostream):
         ostream.write("Container is store {} transports:\n".format(len(self.store)))
         i = 1
-        for shape in self.store:
+        for transp in self.store:
             ostream.write("{}) ".format(i))
-            shape.Write(ostream)
+            transp.Write(ostream)
             ostream.write("\n")
             i = i + 1
         pass

@@ -1,0 +1,14 @@
+Container is store 12 transports:
+1) Ship: ideal travel time = 318.182h, distance = 17500.0km, speed = 55km/h, displacement = 10000000kg, type = Type.TANKER 
+2) Ship: ideal travel time = 297.619h, distance = 12500.0km, speed = 42km/h, displacement = 350000kg, type = Type.LINER 
+3) Ship: ideal travel time = 250.0h, distance = 15000.0km, speed = 60km/h, displacement = 40000kg, type = Type.TANKER 
+4) Train: ideal travel time = 100.0h, distance = 15000.0km, speed = 150km/h, number of wagons = 1000
+5) Train: ideal travel time = 50.0h, distance = 10000.0km, speed = 200km/h, number of wagons = 1000
+6) Ship: ideal travel time = 37.313h, distance = 2500.0km, speed = 67km/h, displacement = 700000kg, type = Type.TUG 
+7) Train: ideal travel time = 32.0h, distance = 4000.0km, speed = 125km/h, number of wagons = 1000
+8) Train: ideal travel time = 16.667h, distance = 2500.0km, speed = 150km/h, number of wagons = 1000
+9) Airplane: ideal travel time = 5.714h, distance = 4000.0km, speed = 700km/h, flight range = 20000km, load capacity = 16000kg
+10) Airplane: ideal travel time = 5.0h, distance = 4000.0km, speed = 800km/h, flight range = 20000km, load capacity = 16000kg
+11) Train: ideal travel time = 2.105h, distance = 200.0km, speed = 95km/h, number of wagons = 1000
+12) Airplane: ideal travel time = 0.006h, distance = 6.0km, speed = 1000km/h, flight range = 20000km, load capacity = 16000kg
+Time: 0.001642799936234951s

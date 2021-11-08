@@ -1,9 +1,13 @@
+import random
 #----------------------------------------------
 class Transport:
     def __init__(self):
         self.distance = 0.0
         self.speed = 0
     def ReadStrArray(self, strArray, i):
+        pass
+
+    def ReadRand(self):
         pass
 
     def Print(self):
